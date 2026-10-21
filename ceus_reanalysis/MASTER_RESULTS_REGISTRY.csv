@@ -1,0 +1,16 @@
+key,value,source
+total_clusters,589,cluster_results_v2 rows
+feasible_clusters,554,s2_feasible==True
+sano_feasible,360,
+kudamatsu_feasible,88,
+yasu_feasible,106,
+infeasible_excluded,35,EXCLUSION_LEDGER.csv
+positive_vof_substantive,24,vof_pct>1e-4
+positive_sano,3,positive_kudamatsu,13,positive_yasu,8
+zero_share_pct,95.7,
+sano_vof_pct,0.0145,manuscript_values_v3
+kudamatsu_vof_pct,0.3935,manuscript_values_v3
+yasu_vof_pct,0.2010,manuscript_values_v3
+horizon_years,40,config/study.yaml primary_horizon_years
+discount_rate,0.03,load_factor,0.35
+s2_vs_s1_corridor_diff,19,len diff >1 m

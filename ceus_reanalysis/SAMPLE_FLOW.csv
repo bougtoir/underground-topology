@@ -1,0 +1,4 @@
+city,total_clusters,feasible,infeasible,feasible_nondegenerate_hull,positive_vof_gt_tol
+sano,385,360,25,34,3
+kudamatsu,96,88,8,49,13
+yasu,108,106,2,44,8

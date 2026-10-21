@@ -1,0 +1,5 @@
+analysis,n,denominator_rule
+morphology primary,554,feasible & non-null vof_pct
+hull_area / hull_density correlation,127,feasible & non-degenerate hull
+edge-metric correlation,296,feasible & cluster has internal road edge
+positive-VoF incidence,554,feasible; tolerance vof_pct>1e-4 -> 24

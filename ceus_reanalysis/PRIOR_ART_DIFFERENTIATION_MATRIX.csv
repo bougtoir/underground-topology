@@ -1,0 +1,11 @@
+work,route_model,data_type,economics,renewal_window,feasibility_gating,morphology_conditioning,ours_differs
+Abhilash & Kumar 2021,growth/static ring and spur models,synthetic/data,TCO yes,no,no,no,renewal-window option + gates + morphology
+Fu et al 2016,route optimization,synthetic/data,capex/loss yes,no,no,no,incumbent-retention option contrast
+Zhang et al 2025,planning expansion,synthetic,data?,yes,no,no,undergrounding renewal window specifically
+Liu et al (TNO),planning,distributed,financial/capex,no,no,no,feasibility gating + geospatial morphology
+Samui et al 2012,greenfield planning,synthetic,cost yes,no,no,no,we compare incumbent retention vs forced redesign
+Kumar et al 2014,greenfield planning,synthetic,cost no?,no,no,no,observed vs optimized topology + option value
+Larsen 2016,economics causal,observed,grid CAPEX causal,no,no,no,non-network causal evidence; complementary
+Fenrick & Getachew 2012,economics,observed,cost-engineering,no,no,no,system-level not topology-level
+Babli et al 2025,DG allocation scenario,synthetic,cost/QoL,no,no,no,different decision (DG vs re-layout)
+Abdel-Mottaleb & Zhang 2020,placement/design,synthetic,multi-criteria,no,no,no,civil-infrastructure design, not renewal option

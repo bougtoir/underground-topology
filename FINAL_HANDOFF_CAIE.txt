@@ -1,0 +1,67 @@
+FINAL HANDOFF — post-SEGAN reassessment → CAIE retarget
+========================================================
+Date: 2026-10-10 (UTC)
+
+DECISION
+- Gate A: REPOSITION NOW. Novelty = bounded real increment (incumbent-
+  admissible VoF estimand + feasibility gating + reconstruction-ensemble
+  uncertainty). Not a theorem-level advance; sufficient for an
+  infrastructure/asset-management venue.
+- Primary target: Computer-Aided Civil and Infrastructure Engineering
+  (CAIE, Wiley). JIF 9.1, JCR Q1 (Engineering, Civil 2/183; also Q1 in
+  CS Interdisciplinary Applications and Transportation Science &
+  Technology). Hybrid journal: subscription route available at $0 to
+  authors — satisfies "JCR Q1 AND zero mandatory author charges".
+- Backup list: post_segan_reassessment/Q1_ZERO_FEE_JOURNAL_RANKING.csv
+  (RESS, SEPS, C&IE, TUST, CEUS, EJOR, Omega, DSS, Cities, Applied
+  Energy, JME all ELIGIBLE via subscription route).
+- Excluded: IJEPES (gold OA since 2024, APC mandatory), Energy Economics
+  ($100 submission fee), EPSR/TPWRD/Utilities Policy/SETA (JCR Q2),
+  IEEE TSG (same smart-grid critique as SEGAN), IEEE TPWRS (overlength
+  page charges — conditional only).
+
+ARTIFACTS (underground_topology_segan/)
+- manuscript/manuscript_caie_v1.docx — retargeted manuscript, author-
+  date citations (Wiley style), 17 refs (12 prior + 5 new verified via
+  Crossref: Larsen 2016, Fenrick & Getachew 2012, Samui et al. 2012,
+  Kumar et al. 2014, Abhilash et al. 2021). "prespecified" throughout
+  (no "pre-registered"). Abstract 177 words.
+- manuscript/manuscript_inline_caie.docx — same with figures embedded.
+- manuscript/supplementary_material_caie.docx — Figure S1 + benchmark
+  note.
+- manuscript/cover_letter_caie.txt — first-person "I", signed Tatsuki
+  Onishi.
+- manuscript/declarations_caie.txt.
+- CAIE_submission_package_v1.zip (~11 MB, full reproducibility bundle).
+- scripts/p13e_manuscript_caie.py, scripts/p14e_package_caie.py —
+  builders (frozen values from analysis/manuscript_values_v3.csv).
+- post_segan_reassessment/ — all audit files: baseline audit, claim
+  audit, citation ecology, closest-prior-work matrix, journal long
+  list, fee/Q1 evidence, ranking, GO/NO-GO, decision log, source
+  registry, HANDOFF.txt.
+
+FROZEN NUMBERS (unchanged, from manuscript_values_v3.csv)
+- VoF: Sano +0.0145%, Kudamatsu +0.3935%, Yasu +0.2010% — all
+  economically_equivalent inside prespecified 1% margin.
+- Secondary naive ΔNPC: +0.014% / -10.06% / +0.20% (Kudamatsu =
+  estimand artifact; flips to +0.27% at 200 kW MV threshold, -2.21% at
+  120 kW).
+- AC validation: 672 feasible synthesized feeders, max|vm err| 0.0193
+  pu < 0.02 tol, agreement 1.00.
+- LV shares of total demand: 74.7% / 55.1% / 53.4%. MC: 500 draws.
+- S1 family NPC ratios: 1.000 / 1.006 / 1.004.
+
+QC DONE
+- Zero "pre-registered"; zero "SEGAN"/journal-name leakage; no internal
+  paths. All 17 references cited in text; all citations resolve to
+  reference list. Figure 1–4 + S1 and Table 1–2 all cited in text in
+  order. Author-date style consistent.
+
+TO DO BEFORE SUBMISSION (author-side)
+- Fill author name/affiliation/corresponding author fields.
+- CAIE Graphical/Freeform Abstract length: check current guide for
+  authors (was flagged as open item in HANDOFF.txt).
+- JIF/quartile numbers rest on secondary aggregators; verify on
+  Clarivate JCR at submission.
+- Upload figures as separate files (tiff versions exist in figures/).
+- Submission portal: CAIE uses ScholarOne (mc.manuscriptcentral.com/caie).

@@ -1,0 +1,15 @@
+CEUS_FINAL_CHANGELOG
+1. Discussion: added exactly one sentence after the bounded-VoF paragraph:
+   "Within these reconstructed, demand-constrained networks, the limited
+   benefit of re-layout is consistent with the possibility that successive
+   locally economical connections can leave an inherited layout close to
+   the current cost minimum, although the actual historical evolution of
+   utility networks was not observed."
+2. References: Abdel-Mottaleb and Zhang (2020) moved to alphabetical
+   position; all 28 entries verified via Crossref/publisher.
+3. Methods 2.5: 'prespecified, interpretable descriptor set' ->
+   'exploratory, interpretable descriptor set' (no dated protocol exists).
+4. Introduction: 'have barely met' -> 'integration for renewal-time
+   topology decisions remains less developed'.
+5. Abstract/Conclusion/Cover letter: practical 1% equivalence margin
+   wording already distinguished from statistical equivalence testing.

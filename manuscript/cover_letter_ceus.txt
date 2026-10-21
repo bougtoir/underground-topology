@@ -1,0 +1,50 @@
+Cover letter — Computers, Environment and Urban Systems
+
+Dear Editor,
+
+I am pleased to submit "The Value of Topology Flexibility at
+Infrastructure Renewal: A Feasibility-Gated Geospatial Assessment of
+Low-Voltage Re-Layout During Undergrounding" for consideration as a
+research article in Computers, Environment and Urban Systems.
+
+Cities renewing aging overhead lines by undergrounding routinely pay
+for the corridor but never price the design option it opens: is
+re-drawing the hidden local network worth anything once the trench is
+committed? This paper turns that question into a computable geospatial
+decision problem and answers it end to end. I reconstruct legacy
+low-voltage networks from open municipal and OpenStreetMap data in
+three observability tiers, impose engineering feasibility gates before
+any cost comparison, validate the linearized electrical model against
+AC power flow on all 672 feasible synthesized
+feeders, and define an incumbent-admissible estimand — the value of
+topology flexibility — that keeps the inherited layout inside the
+choice set rather than assuming it away.
+
+The manuscript speaks to an existing CEUS conversation: rehabilitation
+decision-support for buried utility networks is a journal-native theme
+since UtilNets (Hadzilacos et al., 2000), and CEUS has published
+network inference from incomplete surface evidence for wastewater
+(Chahinian et al., 2019) and BIM/geospatial integration under
+incomplete semantics (Gilbert et al., 2021). This paper adds what
+those lines still lack: a priced, engineering-feasible decision layer
+on reconstructed urban utility topology.
+
+The contribution to CEUS's community is, I believe, threefold. First,
+a decision layer on top of the geospatial reconstruction literature:
+the reconstructed network is treated not as an answer but as the
+choice set over which a renewal option is priced. Second, an honest
+bounded result: the option value is under 0.5% of life-cycle cost in
+all three study zones, and I show that naive incumbent-excluding
+contrasts manufacture double-digit artifacts that disappear under
+correct estimand design. Third, a spatial finding reported honestly:
+the residual re-layout value concentrates in a small minority of
+larger feasible clusters — but every apparent morphology correlate
+collapses under cluster-size adjustment, so I report it as an
+exploratory screening diagnostic rather than a morphology rule. The method, data provenance, and full reproducibility
+package accompany the submission.
+
+The manuscript is original, is not under consideration elsewhere, and
+has been approved for submission.
+
+Sincerely,
+Tatsuki Onishi

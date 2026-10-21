@@ -1,0 +1,6 @@
+value,appears_in,source,upstream
+sano_vof_pct,manuscript abstract/results,manuscript_values_v3.csv,cluster_results_v2
+554 feasible,all morphology analyses,s2_feasible flag,cluster_results_v2
+24 positive,Fig5/Results/SuppS3,vof_pct>1e-4 on feasible,CEUS_MORPHOLOGY_CLUSTER
+adjusted rhos,Table3,rank-residual partial Spearman,FEASIBLE_ASSOCIATION_FINAL
+t130 n/a,Table4,cluster_results_t130 all 1-terminal,data/processed/*/

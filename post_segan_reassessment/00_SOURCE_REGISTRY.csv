@@ -1,0 +1,17 @@
+source_id,type,location,role,verified,notes
+repo_master,git,bougtoir/wip:underground_topology_segan @67d312fa067b2bb3d8a626b073b613957236b180,canonical working baseline,yes,private monorepo master
+public_mirror,git,github.com/bougtoir/underground-topology,public mirror via sync-to-repos.yml,yes,journal-name-free naming; no remap needed
+ms_docx,file,manuscript/manuscript_draft_v4.docx,final SEGAN manuscript,yes,built by scripts/p13d_manuscript_v4.py
+ms_inline,file,manuscript/manuscript_inline_v4.docx,inline-figure copy,yes,
+supp,file,manuscript/supplementary_material_v4.docx,supplement (Fig S1 + notes),yes,
+cover_letter,file,manuscript/cover_letter_v4.txt,SEGAN cover letter,yes,SEGAN-specific; replaced for retarget
+highlights,file,manuscript/highlights_v4.txt,5 highlights <=85 chars,yes,Elsevier-specific; not needed for CAIE
+declarations,file,manuscript/declarations_v4.txt,declarations/COI/data availability,yes,
+values_csv,data,analysis/manuscript_values_v3.csv,frozen numeric source,yes,all manuscript numbers trace here
+ac_validation,data,analysis/AC_VS_LINEAR_VALIDATION.csv,672 feeder AC-vs-linear validation,yes,max|vm err|0.0193 pu; agreement 1.00
+refs_csv,data,analysis/references_verified.csv,Crossref-verified bibliography,yes,12 DOI rows
+acq_registry,data,RAW_DATA_ACQUISITION_REGISTRY.csv,raw-data acquisition ledger,yes,URLs/checksums/dates preserved
+figures,files,figures/v4_fig1..fig4 + v4_supp_figS1 (.png/.tiff),manuscript figures,yes,300 dpi
+tables,files,tables/table2_results_v4.csv,machine-readable Table 2,yes,
+editor_decision,text,SEGAN-D-26-05388 (EiC G. Chicco),desk rejection rationale,yes,scope-fit rejection; quoted in prompt
+pkg_zip,file,SEGAN_submission_package_FINAL_v4.zip,final SEGAN package,yes,frozen; not reused for retarget

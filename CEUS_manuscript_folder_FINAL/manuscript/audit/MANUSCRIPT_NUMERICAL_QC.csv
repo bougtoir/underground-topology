@@ -1,0 +1,13 @@
+quantity,value,machine_source,manuscript_use
+clusters_total,589.0,ANALYTIC_POPULATION_LOCK,589
+clusters_feasible,554.0,s2_feasible flag,554 (360/88/106)
+positive_vof_substantive,24.0,vof_pct>1e-4,24 (3/13/8)
+positive_vof_tolerance,2.0,vof_pct<=1e-4 >0,2 (~1e-15%)
+zero_mass_pct,95.7,feasible cohort,95.7
+vof_sano_pct,0.0145,manuscript_values_v3,0.01
+vof_kudamatsu_pct,0.3935,manuscript_values_v3,0.39
+vof_yasu_pct,0.201,manuscript_values_v3,0.20
+t130_vof_sano,0.015,scenario_results_t130,Table4
+t130_vof_kudamatsu,0.3196,scenario_results_t130,Table4
+t130_vof_yasu,0.2258,scenario_results_t130,Table4
+horizon_years,40.0,config/study.yaml primary_horizon_years,40

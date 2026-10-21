@@ -1,0 +1,5 @@
+Hidden low-voltage networks reconstructed from open data in three tiers
+Feasibility gating precedes any cost comparison of network layouts
+Topology flexibility at renewal is worth under 0.5% of life-cycle cost
+Residual re-layout value is size-structured, not morphology-driven
+Incumbent-admissible estimand prevents inflated redesign savings

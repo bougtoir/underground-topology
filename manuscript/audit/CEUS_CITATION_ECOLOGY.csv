@@ -1,0 +1,7 @@
+citation_id,verified_reference,field,manuscript_section,why_required,status
+Chahinian et al. 2019,CEUS 78:101370,utility-network inference from proxy anchors,Intro; Methods 2.2; Discussion,closest CEUS analog: anchors as topology evidence,added
+Gilbert et al. 2021,CEUS 86:101570,geospatial utility integration under incomplete semantics,Intro; Methods 2.2; Discussion,incomplete-observation integration precedent,added
+Hadzilacos et al. 2000,CEUS 24(3):215-232,underground utility rehabilitation DSS,Intro; Discussion; cover letter,CEUS-native decision-support lineage,added
+Fu et al. 2016,CAIE 31(9):661-680,spatial network growth model,Intro,morphology-model baseline,retained
+Zhang et al. 2025,CAIE 40(27):4884-4903,utility-network geospatial mapping,Intro; Methods; Discussion,closest recent reconstruction,retained
+Liu et al. 2025,IJEPES 164:110395,LV topology identification,Intro; Methods; Discussion,reconstruction estimand contrast,retained

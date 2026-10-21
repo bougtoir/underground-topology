@@ -1,0 +1,8 @@
+item,population,denominator,location
+Table 2 scenario results,554 feasible clusters,per-city MV-served excluded,main
+Table 3 morphology rhos,554 (127/296 sub-denominators),declared per row n,main
+Table 4 sensitivity,frozen variants incl t130 n/a,per variant,main
+Fig 3 S1-vs-S2 length,554,all feasible,main
+Fig 5 incidence+magnitude,554 / 24 positive,tolerance >1e-4,main
+Supp S2 Moran's I,554,feasible-only,supplement
+Supp S3 zero mass,554,feasible denominators 360/88/106,supplement

@@ -1,0 +1,26 @@
+reference_id,doi,exact_claim_supported,metadata_verification_status,fulltext_review_status,action
+Abhilash Bandam et al. 2021,10.1109/ISGTEurope52324.2021.9639916,reconstruction priors,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Babli et al. 2025,10.3390/electronics14071414,open-data LV reconstruction,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Baran & Wu 1989a,10.1109/61.25627,loss reduction reconfiguration,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Baran & Wu 1989b,10.1109/61.19265,capacitor placement,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Barthelemy 2011,10.1016/j.physrep.2010.11.002,spatial network review,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Boeing 2018,10.1177/2399808318784595,street-network morphology,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Camargo et al. 2013,10.1109/pesmg.2013.6672615,expansion planning GA,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Cardillo et al. 2006,10.1103/PhysRevE.73.066107,planar urban graphs,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Fenrick & Getachew 2012,10.1016/j.jup.2011.10.002,undergrounding cost,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Fu et al. 2016,10.1111/mice.12204,spatial network model CAIE,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Gan & Low 2014,10.1109/pscc.2014.7038399,DistFlow linearization,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Haklay & Weber 2008,10.1109/mprv.2008.80,OSM data,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Hwang & Richards 1992,10.1002/net.3230220105,Steiner problems,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Kou et al. 1981,10.1007/BF00288961,Steiner heuristic,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Kumar et al. 2014,10.1016/j.ijepes.2013.11.039,feeder routing,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Larsen 2016,10.1016/j.eneco.2016.09.011,undergrounding economics,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Levinson 2012,10.1371/journal.pone.0029721,network structure city size,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Liu et al. 2025,10.1016/j.ijepes.2024.110395,LV topology ID IJEPES 164:110395,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Louf & Barthelemy 2014,10.1098/rsif.2014.0924,street typology,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Samui et al. 2012,(IEEE TPWRD 27(1):253-260; no DOI in entry),feeder routing method,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Taheri et al. 2023,10.1016/j.epsr.2022.108804,resilience undergrounding,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Thurner et al. 2018,10.1109/TPWRS.2018.2829021,pandapower validation,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Tram & Wall 1988,10.1109/59.43199,conductor selection,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Zhang et al. 2025,10.1111/mice.70085,utility network geospatial mapping CAIE,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain
+Abdel-Mottaleb & Zhang 2020,10.1061/(ASCE)IS.1943-555X.0000563,infra-morphology connectivity,verified_crossref,methods-level for Fu/Zhang/Liu/Larsen/Abhilash; abstract+metadata for others,retain

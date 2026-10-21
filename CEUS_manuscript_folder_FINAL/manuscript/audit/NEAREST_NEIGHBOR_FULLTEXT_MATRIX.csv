@@ -1,0 +1,8 @@
+work,question,topology_type,decision_layer,feasibility_gates,estimand,our_delta
+Fu et al. 2016,spatial network growth theory,model/simulated,no,no,cost/length tradeoffs,renewal-window optional estimand
+Zhang et al. 2025,LV topology inference from open data,reconstructed yes,no,no,identification accuracy,we add decision pricing of the choice set
+Liu et al. 2025 (IJEPES 164:110395),topology identification from OSM+SM,reconstructed/partially validated,no,physical feasibility yes,estimation error,we add incumbent-admissible option value
+Abhilash et al. 2021,synthetic geo LV networks,synthetic,no,no,representativeness,observed anchors + renewal decision
+Larsen 2016,undergrounding economics (causal),observed system,no,n/a,capex causal bounds,we add topology-resolution option value
+Fenrick & Getachew 2012,undergrounding cost-benefit,observed system,no,n/a,cost-engineering,we sharpen inside committed corridor
+Samui/Kumar planning,greenfield routing,synthetic,no,partial,construction cost,we keep incumbent admissible + feasibility gating

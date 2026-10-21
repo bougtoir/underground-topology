@@ -1,0 +1,12 @@
+Data and code availability
+All analysis scripts, the source registry, checksums, and
+machine-readable result tables are provided in the supplementary
+repository snapshot at github.com/bougtoir/underground-topology-segan
+(reproduce-only scope). Municipal open data were used under their
+stated licenses (CC-BY for Kudamatsu); OpenStreetMap data are used
+under ODbL. Processed intermediate tables are included in the
+submission package; raw municipal extracts are retained locally per
+license terms. Figure 2 map layers: geoBoundaries Japan ADM1
+(https://www.geoboundaries.org/, CC-BY-4.0) and Natural Earth 10m land
+(https://www.naturalearthdata.com/, public domain); plotting script and
+raw downloads are included in the repository snapshot.
