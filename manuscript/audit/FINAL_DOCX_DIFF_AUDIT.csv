@@ -1,0 +1,23 @@
+location,standalone_text,inline_text,disposition,reason
+para0,2. Data and methods,"Figure 1. Data-to-decision pipeline: open geospatial inputs, zone construction, ",canonical kept,baseline
+para1,2.1 Study zones and data tiers,2. Data and methods,canonical kept,baseline
+para2,The three Japanese municipalities were selected based on the availability of pub,2.1 Study zones and data tiers,canonical kept,baseline
+para3,"The municipalities occupy geographically distinct settings. Sano, in southwester",The three Japanese municipalities were selected based on the availability of pub,canonical kept,baseline
+para4,2.2 Legacy network reconstruction,"Figure 2. Geographic context and study zones. (a) Locations of Sano (Tochigi), K",canonical kept,baseline
+para5,"Because actual LV cable routing is unobserved, legacy topologies are reconstruct","The municipalities occupy geographically distinct settings. Sano, in southwester",canonical kept,baseline
+para6,2.3 Engineering feasibility and electrical model,2.2 Legacy network reconstruction,canonical kept,baseline
+para7,All synthesized topologies are gated by engineering feasibility before any cost ,"Because actual LV cable routing is unobserved, legacy topologies are reconstruct",canonical kept,baseline
+para8,2.4 Re-layout optimization and the VoF estimand,2.3 Engineering feasibility and electrical model,canonical kept,baseline
+para9,Re-layout is formulated as weighted Steiner-tree synthesis on the road graph wit,All synthesized topologies are gated by engineering feasibility before any cost ,canonical kept,baseline
+para10,a nonnegative quantity: zero whenever no feasible redesign beats the incumbent. ,2.4 Re-layout optimization and the VoF estimand,canonical kept,baseline
+para11,2.5 Urban morphology descriptors,Re-layout is formulated as weighted Steiner-tree synthesis on the road graph wit,canonical kept,baseline
+para12,"At feeder-cluster scale we compute an exploratory, interpretable descriptor set ",a nonnegative quantity: zero whenever no feasible redesign beats the incumbent. ,canonical kept,baseline
+para13,3. Results,2.5 Urban morphology descriptors,canonical kept,baseline
+para14,Table 2 summarizes 589 clusters (554 feasible) serving 58.6 MW of modeled LV pea,"At feeder-cluster scale we compute an exploratory, interpretable descriptor set ",canonical kept,baseline
+para15,"At feeder-cluster scale (554 feasible clusters), VoF is zero for 95.7% of cluste",3. Results,canonical kept,baseline
+para16,4. Discussion,Table 2 summarizes 589 clusters (554 feasible) serving 58.6 MW of modeled LV pea,canonical kept,baseline
+para17,The finding is bounded and geographically interpretable. Relative to reconstruct,Figure 4. Primary estimand VoF by zone vs Monte-Carlo mean of the secondary naiv,canonical kept,baseline
+para18,"Two methodological controls produce the bounded result. First, feasibility gatin",Figure 3. Optimized vs incumbent route length for all 554 feasible clusters (log,canonical kept,baseline
+para19,Limitations. Reconstructed topologies are modeled objects: anchor data do not ob,"At feeder-cluster scale (554 feasible clusters), VoF is zero for 95.7% of cluste",canonical kept,baseline
+figure2-caption,canonical Fig2 caption,now identical,synced,p18 stale caption fixed
+figure2-image,v4_fig1_study_zones.png,embedded pixel-identical,synced,replaced by rebuild

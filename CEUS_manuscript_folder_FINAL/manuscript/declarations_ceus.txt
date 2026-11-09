@@ -1,0 +1,7 @@
+Declarations
+- Declaration of generative AI: during the preparation of this work the
+  author used an AI coding assistant for code scaffolding and drafting.
+  The author reviewed and edited all content and takes full
+  responsibility for the publication.
+- Conflict of interest: none declared. Funding: none.
+- Data availability: see data_code_availability_ceus.txt.

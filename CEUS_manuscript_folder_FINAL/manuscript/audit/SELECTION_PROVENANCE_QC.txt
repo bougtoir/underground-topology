@@ -1,0 +1,12 @@
+SELECTION PROVENANCE QC
+Sano: data/raw/sano/sano_security_lights.csv (cp932, 9,519 rows) carries
+columns [電柱番号, 設置付近住所, 町会名, 管理番号, 緯度, 経度] — pole
+number + asset number + coordinates: 'pole numbers' claim VERIFIED.
+Kudamatsu: 352071_security_lights*.csv (cp932) carries
+[防犯灯_ID, 防犯灯_名称, 防犯灯_所在地, 緯度, 経度, 座標参照系, ...] —
+security-light IDs/coords only, no pole field: 'without verified pole
+linkage' VERIFIED.
+Yasu: roads/buildings only (OSM): lowest-observability tier VERIFIED.
+Demand nodes (frozen): Sano 772, Kudamatsu 341, Yasu 332 — confirmed.
+No documented nationwide selection protocol exists; wording used:
+'selected based on the availability of publicly accessible spatial data'.

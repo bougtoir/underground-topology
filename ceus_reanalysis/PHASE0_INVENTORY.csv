@@ -1,0 +1,8 @@
+item,path,role,frozen
+electrical results,data/processed/*/cluster_results_v2.csv,per-cluster NPC/VoF by strategy,frozen (not recomputed)
+config,config/study.yaml,horizon/discount/costs/assumptions,frozen
+morphology v1,scripts/p15_ceus_morphology.py,superseded descriptor builder (degenerate-hull bug),superseded by p15b
+morphology v2,scripts/p15b_ceus_morphology_v2.py,stable-support descriptors + quality flags,current
+manuscript builder,scripts/p17_manuscript_ceus.py,CEUS docx builder,updated (30->40yr; morphology text)
+package builder,scripts/p18_package_ceus.py,cover letter/supplement/zip,rerun
+values CSV,analysis/manuscript_values_v3.csv,aggregate frozen numbers,frozen

@@ -1,0 +1,10 @@
+PHASE 0 HANDOFF — CEUS targeted reanalysis (2026-10-10)
+Branch: devin/1791669486-caie-retarget (same as CEUS/CAIE commits; new dir ceus_reanalysis/)
+Baseline SHA recorded before reanalysis: a56b8a9d34b9cd089fe2cee9725368b2665d0ab0
+Frozen electrical baseline: analysis/manuscript_values_v3.csv + cluster_results_v2 per city —
+  NOT recomputed (no re-optimization). Morphology v2 = descriptive stats on frozen outputs only.
+Defects carried in (from prompt): hull density unstable; "30-year" prose vs 40-yr primary;
+  prespecified-claim audit; 94% zero mass; pseudoreplication; circularity of descriptors.
+Key repairs made: 30->40 yr prose fixed; degenerate-hull density replaced by stable
+  100-m buffer support; zero-mass reported two-part; Moran's I spatial diagnostics;
+  provenance of descriptors declared.

@@ -1,0 +1,11 @@
+GEOGRAPHY/SELECTION MICROREVISION QC
+Methods 2.1: selection rationale now availability-driven wording
+(verified against raw schemas); tiers unchanged in Table 1 (Sano pole-ID
+claim verified via 電柱番号 column).
+Figure 2: panel titles shortened to (a) Japan / (b) Sano / (c) Kudamatsu /
+(d) Yasu; demand-node counts moved to caption (772/341/332, verified);
+geoBoundaries ADM1 CC-BY-4.0 attribution added to caption; leader lines
+and labels checked (no crossings; Yasu label right of marker).
+Modified files: scripts/p17_manuscript_ceus.py (2.1, Fig2 caption),
+scripts/p20_geographic_context_fig.py, figures/v4_fig1_study_zones.*.
+Frozen results unchanged; no reanalysis; cover letter untouched.

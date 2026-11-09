@@ -1,0 +1,9 @@
+claim,location,evidence,status
+"VoF 0.01/0.39/0.20% inside 1% margin",Abstract/Results,manuscript_values_v3 frozen,verified
+"95.7% feasible clusters zero VoF",Results,CEUS_ZERO_MASS_SUMMARY (24/554),verified
+"morphology rhos collapse under size adjustment",Results/Table3,FEASIBLE_ASSOCIATION_FINAL adj col,verified
+"density non-replicable across supports",Results,buffer 0.03 vs hull -0.28 (non-degenerate),verified
+"near-zero Moran's I",Results,CEUS_SPATIAL_DIAGNOSTICS feasible-only,verified
+"130 kVA VoF undefined",Table4 footnote,cluster_results_t130 all single-terminal,verified
+"40-year discounted losses",Methods,config primary_horizon_years=40,verified
+"lower-density clusters retain slack",removed,no support after support-sensitivity,dropped

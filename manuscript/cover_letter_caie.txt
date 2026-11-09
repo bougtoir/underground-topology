@@ -1,0 +1,47 @@
+Cover letter — Computer-Aided Civil and Infrastructure Engineering
+
+Dear Editors,
+
+I am pleased to submit "How Much Is Topology Flexibility Worth at
+Renewal? A Feasibility-Constrained Life-Cycle Assessment of LV
+Re-Layout During Undergrounding" for consideration as an original
+research article in Computer-Aided Civil and Infrastructure
+Engineering.
+
+Civil infrastructure now faces a large renewal cohort, and every
+undergrounding project hides a design question that practice answers by
+default: when the trench is open anyway, is it worth re-drawing the
+network, or is like-for-like replacement already optimal? This paper
+turns that question into a computable decision problem and answers it
+end to end. I formulate the renewal window as a choice set in which the
+incumbent layout remains an admissible decision, synthesize legacy
+low-voltage networks from open municipal data under explicit data
+tiers, impose engineering feasibility gates (coincident-load sizing,
+ampacity, transformer loading, 6% voltage-drop limit) before any cost
+contrast is drawn, and validate the linearized power-flow model against
+full AC power flow on all 672 feasible
+synthesized feeders.
+
+The central finding is deliberately honest: the value of topology
+flexibility was economically equivalent to like-for-like renewal in all
+three modeled study zones (0.01%,
+0.39%, 0.20% of
+life-cycle cost) under a prespecified 1% equivalence margin. I further
+show that a naive forced-redesign contrast — the kind that produces
+double-digit headline savings — is an estimand artifact that
+disappears once the incumbent is admissible and once engineering
+feasibility is gated. For computer-aided infrastructure engineering,
+the transferable contribution is a reproducible pipeline that values
+re-layout options honestly under open-data constraints: estimand
+design, feasibility gating, and reconstruction-ensemble uncertainty,
+all released with code and provenance.
+
+I believe this work fits CAIE's scope on computational methods for
+infrastructure planning, life-cycle assessment, and decision support
+under realistic data constraints.
+
+The manuscript is original, is not under consideration elsewhere, and
+has been approved for submission.
+
+Sincerely,
+Tatsuki Onishi

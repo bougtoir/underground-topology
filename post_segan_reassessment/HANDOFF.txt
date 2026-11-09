@@ -1,0 +1,27 @@
+HANDOFF — post-SEGAN reassessment (2026-10-10)
+
+DONE
+- Baseline audit of wip/underground_topology_segan @67d312f (v4 SEGAN package intact).
+- Scientific claim audit: contribution = estimand design + feasibility gating + renewal
+  option value (bounded negative result); not smart-grid operation (editor correct).
+- Citation ecology: 16-work matrix; +5 material refs added in retarget.
+- Journal economics: 16 journals audited; JIF/JCR-2024 quartiles secondary-verified;
+  official fee pages quoted.
+- Decision: GATE A — REPOSITION NOW, primary target CAIE (Wiley, JIF 9.1, Q1, $0 mandatory).
+- CAIE-variant manuscript built by scripts/p13e_manuscript_caie.py ->
+  manuscript/manuscript_caie_v1.docx + inline + cover letter + zip package.
+  Author-date style, prespecified wording, reframed Intro/Discussion.
+
+UNRESOLVED / VERIFY BEFORE SUBMISSION
+1. JCR quartiles are secondary-source verified (journalmetrics/iit.comillas/dizin/EURO);
+   direct Clarivate JCR was not accessible from this session. If the author has JCR access,
+   confirm CAIE Q1 (Engineering, Civil) before submitting — risk: low.
+2. IEEE TPWRS remains the topically-closest Q1 venue but is fee-conditional ($250/page
+   beyond 12 published pages; ≤10pp submission). Only pursue if the user wants a power
+   venue and accepts likely page charges or a heavily condensed paper.
+3. CAIE article-type/word expectations: manuscript is ~9k words + 4 figures + 2 tables;
+   check the current GFA for any limit at submission time.
+4. Figure files reused v4 PNG/TIFF (journal-agnostic). Supplement kept (Fig S1 + notes).
+5. Affiliation/corresponding-author fields left blank for the author (standing rule).
+6. If CAIE desk-rejects on novelty: resubmit to RESS or SEPS without new analysis; both
+   are confirmed Q1 + zero-fee.

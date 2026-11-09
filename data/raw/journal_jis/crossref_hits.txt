@@ -1,0 +1,491 @@
+## renewal rehabilitation 36
+2001 10.1061/(asce)1076-0342(2001)7:4(136) Scheduling Inspection and Renewal of Large Infrastructure Assets
+2000 10.1061/(asce)1076-0342(2000)6:3(105) System for Evaluating Underground Pipeline Renewal Options
+1997 10.1061/(asce)1076-0342(1997)3:2(55) VIEWPOINT: Infrastructure Renewal Requires More Than Money, Political Will, and Commitment
+1997 10.1061/(asce)1076-0342(1997)3:4(169) Forecasts of Funding Needs for Infrastructure Renewal
+2019 10.1061/(asce)is.1943-555x.0000515 Scheduling Infrastructure Renewal for Railway Networks
+2000 10.1061/(asce)1076-0342(2000)6:1(33) Cost/Benefits of Robotics in Infrastructure and Environmental Renewal
+2013 10.1061/(asce)is.1943-555x.0000121 Current and Emerging Water Main Renewal Technologies
+2016 10.1061/(asce)is.1943-555x.0000292 Strategic Model to Optimize Railway-Track Renewal Operations at a Network Level
+2017 10.1061/(asce)is.1943-555x.0000332 Rework in Urban Renewal Projects in Colombia
+2009 10.1061/(asce)1076-0342(2009)15:3(162) Failure Assessment Modeling to Prioritize Water Pipe Renewal: Two Case Studies
+2010 10.1061/(asce)is.1943-555x.0000038 Research Agenda for Transportation Infrastructure Preservation and Renewal: Conference Report
+2001 10.1061/(asce)1076-0342(2001)7:3(116) Pipeline Rehabilitation with Fiber-Reinforced Mortar Lining
+2016 10.1061/(asce)is.1943-555x.0000273 Holistic Analysis of Infrastructure Deterioration and Rehabilitation Using System Dynamics
+2001 10.1061/(asce)1076-0342(2001)7:2(58) MSRP: Model for Station Rehabilitation Planning
+2017 10.1061/(asce)is.1943-555x.0000381 Multitiered Prioritizing Method Using Urgency Scale for Bridge Deck Rehabilitation
+2013 10.1061/(asce)is.1943-555x.0000146 Cost-Estimating Model for Rubberized Asphalt Pavement Rehabilitation Projects
+2015 10.1061/(asce)is.1943-555x.0000220 Identifying Rehabilitation Options for Optimum Improvement in Municipal Asset Condition
+2015 10.1061/(asce)is.1943-555x.0000168 Pavement Deterioration Model Incorporating Unobserved Heterogeneity for Optimal Life-Cycle Rehabilitation Poli
+2014 10.1061/(asce)is.1943-555x.0000180 Cost Optimization of Hydraulic and Structural Rehabilitation of Urban Drainage Network
+2012 10.1061/(asce)is.1943-555x.0000091 Rehabilitation of Aging Water Infrastructure Systems: Key Challenges and Issues
+2007 10.1061/(asce)1076-0342(2007)13:3(225) Bridge Deck Rehabilitation Practices in North America
+2018 10.1061/(asce)is.1943-555x.0000439 Identification of Critical Pipes for Proactive Resource-Constrained Seismic Rehabilitation of Water Pipe Netwo
+2003 10.1061/(asce)1076-0342(2003)9:1(6) Risk-based Life-cycle Costing of Infrastructure Rehabilitation and Construction Alternatives
+1995 10.1061/(asce)1076-0342(1995)1:4(214) Long-Term Structural Behavior of Pipeline Rehabilitation Systems
+2006 10.1061/(asce)1076-0342(2006)12:3(174) Prioritizing Sanitary Sewers for Rehabilitation Using Least-Cost Classifiers
+2006 10.1061/(asce)1076-0342(2006)12:3(184) Optimal Scheduling of Replacement and Rehabilitation of Water Distribution Systems
+2024 10.1061/jitse4.iseng-2489 Multiyear Maintenance and Rehabilitation Optimization for Large-Scale Infrastructure Networks: An Enhanced Gen
+2025 10.1061/jitse4.iseng-2619 Multiobjective Game Theory Model for Identifying Proactive Pipeline Rehabilitation Strategies in Water Distrib
+2021 10.1061/(asce)is.1943-555x.0000638 Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of Demand Critica
+2022 10.1061/(asce)is.1943-555x.0000662 Network-Level Bridge Deterioration Prediction Models That Consider the Effect of Maintenance and Rehabilitatio
+2023 10.1061/jitse4.iseng-2175 Multiobjective Optimization Method for Pavement Segment Grouping in Multiyear Network-Level Planning of Mainte
+2026 10.1061/jitse4.iseng-2828 Network-Level Maintenance and Rehabilitation Budget Planning Based on the Reliability of Large-Scale Pavement 
+2012 10.1061/(asce)is.1943-555x.0000070 Comprehensive Study on Using Externally Bonded FRP Composites for the Rehabilitation of Reinforced Concrete T-
+2022 10.1061/(asce)is.1943-555x.0000696 Discussion of “Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of
+2024 10.1061/jitse4.iseng-2479 Data Cleaning Framework for Pavement Maintenance and Rehabilitation Decision-Making in Pavement Management Sys
+2023 10.1061/jitse4.iseng-2203 An In-Depth Econometric Analysis of Pavement Performance and Service Life by Pavement Rehabilitation Treatment
+## asset management 40
+2014 10.1061/(asce)is.1943-555x.0000157 Life Cycle Asset Management Methodologies for Buildings
+1998 10.1061/(asce)1076-0342(1998)4:3(91) VIEWPOINT—Asset Management: A Tool for Public Works Officials?
+2020 10.1061/(asce)is.1943-555x.0000580 Asset Management Framework for Integrated Municipal Infrastructure
+2022 10.1061/(asce)is.1943-555x.0000704 Deep Reinforcement Learning–Enabled Bridge Management Considering Asset and Network Risks
+2022 10.1061/(asce)is.1943-555x.0000667 Network Analytics for Infrastructure Asset Management Systemic Risk Assessment
+2003 10.1061/(asce)1076-0342(2003)9:3(107) Asset Management Framework for Geotechnical Infrastructure
+2023 10.1061/jitse4.iseng-1891 Statistical Data Analysis for Trackway Asset Management Using Low-Level Nonconformance Rates
+2022 10.1061/(asce)is.1943-555x.0000660 Simplified Exhaustive Search Approach for Estimating the Nonhomogeneous Transition Probabilities for Infrastru
+2009 10.1061/(asce)1076-0342(2009)15:3(232) Generic Methodology for Evaluating Net Benefit of Asset Management System Implementation
+1999 10.1061/(asce)1076-0342(1999)5:2(61) Development of Prototype Highway Asset Management System
+2017 10.1061/(asce)is.1943-555x.0000379 Incorporating Risk and Uncertainty into Infrastructure Asset Management Plans for Pavement Networks
+2018 10.1061/(asce)is.1943-555x.0000426 Performance Evaluation of Water Distribution Systems and Asset Management
+2005 10.1061/(asce)1076-0342(2005)11:2(102) Comparing Probabilistic Methods for the Asset Management of Distributed Items
+2010 10.1061/(asce)is.1943-555x.0000011 Asset Management for Urban Wastewater Pipeline Networks
+2020 10.1061/(asce)is.1943-555x.0000512 Data Analytics in Asset Management: Cost-Effective Prediction of the Pavement Condition Index
+2026 10.1061/jitse4.iseng-2974 Automating Infrastructure Maintenance Contracting: A Hybrid Markov–Machine Learning Framework for Predictive A
+2025 10.1061/jitse4.iseng-2697 Enhancing Road Asset Management with CityGML Enriched by Public Inputs: A Comprehensive Approach to Pothole Re
+2022 10.1061/(asce)is.1943-555x.0000712 Infrastructure Asset Management System Optimized Configuration: A Genetic Algorithm–Complex Network Theoretic 
+2025 10.1061/jitse4.iseng-2607 Network-Level Infrastructure Asset Management with Multiagent Actor–Critic Reinforcement Learning: A Case of H
+2020 10.1061/(asce)is.1943-555x.0000572 Bridge Infrastructure Asset Management System: Comparative Computational Machine Learning Approach for Evaluat
+2021 10.1061/(asce)is.1943-555x.0000590 Integrating the Risk of Climate Change into Transportation Asset Management to Support Bridge Network-Level De
+2009 10.1061/(asce)1076-0342(2009)15:2(95) Methodology for the Determination of Relative Weights of Highway Asset Management System Goals and of Performa
+2025 10.1061/jitse4.iseng-2459 Assembling the Data to Support Risk-Based Asset Management: A Case Study of Dominica’s Roadway Network
+2007 10.1061/(asce)1076-0342(2007)13:2(105) Performance Indicators and Multicriteria Decision Support for Sewer Asset Management
+2013 10.1061/(asce)is.1943-555x.0000093 Network-Level Pavement Asset Management System Integrated with Life-Cycle Analysis and Life-Cycle Optimization
+2009 10.1061/(asce)1076-0342(2009)15:2(111) Using Water Main Break Data to Improve Asset Management for Small and Medium Utilities: District of Maple Ridg
+2022 10.1061/(asce)is.1943-555x.0000706 Erratum for “Network Analytics for Infrastructure Asset Management Systemic Risk Assessment” by Eric Goforth, 
+2016 10.1061/(asce)is.1943-555x.0000260 Improved Asset Management and Inventory Development through Sample Analysis and Vendor–Client Communication
+2015 10.1061/(asce)is.1943-555x.0000220 Identifying Rehabilitation Options for Optimum Improvement in Municipal Asset Condition
+2007 10.1061/(asce)1076-0342(2007)13:1(26) Prediction of Water Pipe Asset Life Using Neural Networks
+2016 10.1061/(asce)is.1943-555x.0000281 Interferometric Stacking toward Geohazard Identification and Geotechnical Asset Monitoring
+2026 10.1061/jitse4.iseng-2811 Integrating Real-Time Monitoring Information into Asset Failure Modeling: Application to ETC Facilities
+2013 10.1061/(asce)is.1943-555x.0000107 Collecting Horizontal Curve Data: Mobile Asset Vehicles and Other Techniques
+2021 10.1061/(asce)is.1943-555x.0000630 Simulation of Railway Drainage Asset Service Condition Degradation in the UK Using a Markov Chain–Based Approa
+2008 10.1061/(asce)1076-0342(2008)14:3(272) Discussion of “Prediction of Water Pipe Asset Life Using Neural Networks” by D. Achim, F. Ghotb, and K. J. McM
+2025 10.1061/jitse4.iseng-2585 Mechanism of Asset Devaluation in the Planning Stage of Urban Rail Transit PPP Projects in China: A System Dyn
+2008 10.1061/(asce)1076-0342(2008)14:3(193) Municipal Infrastructure Asset Levels of Service Assessment for Investment Decisions Using Analytic Hierarchy 
+2015 10.1061/(asce)is.1943-555x.0000248 Green Infrastructure for Highway Stormwater Management: Field Investigation for Future Design, Maintenance, an
+1999 10.1061/(asce)1076-0342(1999)5:3(89) Saint Paul Public Works Management
+2019 10.1061/(asce)is.1943-555x.0000472 Integrating Risk Assessment into Pavement Management Systems
+## network reconfiguration 40
+2014 10.1061/(asce)is.1943-555x.0000149 Simultaneous Network Optimization Approach for Pavement Management Systems
+2012 10.1061/(asce)is.1943-555x.0000077 Pavement Network Maintenance Optimization Considering Multidimensional Condition Data
+1997 10.1061/(asce)1076-0342(1997)3:1(49) Issues in Building the European High-Speed Train Network
+2014 10.1061/(asce)is.1943-555x.0000189 Pavement Maintenance Planning at the Network Level with Principal Component Analysis
+2010 10.1061/(asce)is.1943-555x.0000019 Network-Level Infrastructure Management Using Approximate Dynamic Programming
+2016 10.1061/(asce)is.1943-555x.0000253 Assessment of Postearthquake Losses in a Network of Aging Bridges
+2021 10.1061/(asce)is.1943-555x.0000647 Intelligent Optimized Decision-Support System for Sewer Network Assets Improvement
+1997 10.1061/(asce)1076-0342(1997)3:4(160) Designing Network Partitions to Improve Maintenance Routing
+2022 10.1061/(asce)is.1943-555x.0000704 Deep Reinforcement Learning–Enabled Bridge Management Considering Asset and Network Risks
+2018 10.1061/(asce)is.1943-555x.0000430 Risk-Informed Bridge Ranking at Project and Network Levels
+2009 10.1061/(asce)1076-0342(2009)15:1(21) Planning for Evacuation: Insights from an Efficient Network Design Model
+1997 10.1061/(asce)1076-0342(1997)3:4(154) Fuzzy Set-Based and Performance-Oriented Pavement Network Optimization System
+2023 10.1061/jitse4.iseng-2083 Resource Allocation Framework for Optimizing Long-Term Infrastructure Network Resilience
+2013 10.1061/(asce)is.1943-555x.0000120 Identifying Critical Components in Infrastructure Networks Using Network Topology
+2022 10.1061/(asce)is.1943-555x.0000667 Network Analytics for Infrastructure Asset Management Systemic Risk Assessment
+2024 10.1061/jitse4.iseng-2264 Graph Neural Network Surrogate for Seismic Reliability Analysis of Highway Bridge Systems
+2014 10.1061/(asce)is.1943-555x.0000205 Impact of Road Conditions and Disruption Uncertainties on Network Vulnerability
+2022 10.1061/(asce)is.1943-555x.0000681 Digitalizing the Determination of Railway Infrastructure Intervention Programs: A Network Optimization Model
+2017 10.1061/(asce)is.1943-555x.0000339 Using Tensor Factorization to Predict Network-Level Performance of Bridges
+2025 10.1061/jitse4.iseng-2378 Pavement Condition Prediction for Communities: A Low-Cost, Ubiquitous, and Network-Wide Approach
+2010 10.1061/(asce)is.1943-555x.0000024 Highway Network Retrofit under Seismic Hazard
+2017 10.1061/(asce)is.1943-555x.0000331 Social Network Analysis Approach for Improved Transportation Planning
+2003 10.1061/(asce)1076-0342(2003)9:2(75) Innovative Pavement Management and Planning System for Road Network of Portugal
+2014 10.1061/(asce)is.1943-555x.0000180 Cost Optimization of Hydraulic and Structural Rehabilitation of Urban Drainage Network
+2023 10.1061/jitse4.iseng-2227 Resilience Assessment for Streamline Network of Transportation Hub Complex Based on Service Performance
+1997 10.1061/(asce)1076-0342(1997)3:1(31) Network-Level Bridge Life-Cycle Management System
+2016 10.1061/(asce)is.1943-555x.0000280 Estimating Annual Maintenance Expenditures for Infrastructure: Artificial Neural Network Approach
+2007 10.1061/(asce)1076-0342(2007)13:2(124) Expected Performance of Pavement Repair Works in a Global Network Optimization Model
+2014 10.1061/(asce)is.1943-555x.0000198 Framework for Monitoring and Assessing Performance Quality of Railway Network Infrastructure: Hellenic Railway
+2016 10.1061/(asce)is.1943-555x.0000292 Strategic Model to Optimize Railway-Track Renewal Operations at a Network Level
+2008 10.1061/(asce)1076-0342(2008)14:1(15) Hierarchical Localization of Sensor Network for Infrastructure Monitoring
+2022 10.1061/(asce)is.1943-555x.0000725 Prioritizing Road Network Restorative Interventions Using a Discrete Particle Swarm Optimization
+2013 10.1061/(asce)is.1943-555x.0000127 Using a Guiding Network to Determine Efficient Evacuation Routes in a Public Building
+2026 10.1061/jitse4.iseng-2851 Budget Optimization for a Postearthquake Regional Road Network Considering Connectivity Reliability
+2024 10.1061/jitse4.iseng-2251 Selection and Evaluation of Integrated Solutions in a Combined Sewer Network
+2011 10.1061/(asce)is.1943-555x.0000068 Interface Network Models for Complex Urban Infrastructure Systems
+2020 10.1061/(asce)is.1943-555x.0000538 Rethinking Risk Propagation Mechanism in Public–Private Partnership Projects: Network Perspective
+2017 10.1061/(asce)is.1943-555x.0000277 Developing a Network-Level Structural Capacity Index for Composite Pavements
+2010 10.1061/(asce)1076-0342(2010)16:1(1) Comparative Assessment of Civil Infrastructure Network Performance under Probabilistic and Scenario Earthquake
+2005 10.1061/(asce)1076-0342(2005)11:4(202) Valuing Pavement Network Assets and Use of Values as Decision Supports
+## network design 40
+2009 10.1061/(asce)1076-0342(2009)15:1(21) Planning for Evacuation: Insights from an Efficient Network Design Model
+2008 10.1061/(asce)1076-0342(2008)14:1(89) Design and Implementation of Scalable Wireless Sensor Network for Structural Monitoring
+2022 10.1061/(asce)is.1943-555x.0000673 Aggregate Spatial Analysis of Design Reliability to Sight Distance Requirements: Assessing Reliability of Tran
+2014 10.1061/(asce)is.1943-555x.0000149 Simultaneous Network Optimization Approach for Pavement Management Systems
+2012 10.1061/(asce)is.1943-555x.0000077 Pavement Network Maintenance Optimization Considering Multidimensional Condition Data
+1997 10.1061/(asce)1076-0342(1997)3:1(49) Issues in Building the European High-Speed Train Network
+2014 10.1061/(asce)is.1943-555x.0000189 Pavement Maintenance Planning at the Network Level with Principal Component Analysis
+2010 10.1061/(asce)is.1943-555x.0000019 Network-Level Infrastructure Management Using Approximate Dynamic Programming
+2016 10.1061/(asce)is.1943-555x.0000253 Assessment of Postearthquake Losses in a Network of Aging Bridges
+2021 10.1061/(asce)is.1943-555x.0000647 Intelligent Optimized Decision-Support System for Sewer Network Assets Improvement
+1997 10.1061/(asce)1076-0342(1997)3:4(160) Designing Network Partitions to Improve Maintenance Routing
+2022 10.1061/(asce)is.1943-555x.0000704 Deep Reinforcement Learning–Enabled Bridge Management Considering Asset and Network Risks
+2018 10.1061/(asce)is.1943-555x.0000430 Risk-Informed Bridge Ranking at Project and Network Levels
+1997 10.1061/(asce)1076-0342(1997)3:4(154) Fuzzy Set-Based and Performance-Oriented Pavement Network Optimization System
+2023 10.1061/jitse4.iseng-2083 Resource Allocation Framework for Optimizing Long-Term Infrastructure Network Resilience
+2013 10.1061/(asce)is.1943-555x.0000120 Identifying Critical Components in Infrastructure Networks Using Network Topology
+2022 10.1061/(asce)is.1943-555x.0000667 Network Analytics for Infrastructure Asset Management Systemic Risk Assessment
+2024 10.1061/jitse4.iseng-2264 Graph Neural Network Surrogate for Seismic Reliability Analysis of Highway Bridge Systems
+2014 10.1061/(asce)is.1943-555x.0000205 Impact of Road Conditions and Disruption Uncertainties on Network Vulnerability
+2022 10.1061/(asce)is.1943-555x.0000681 Digitalizing the Determination of Railway Infrastructure Intervention Programs: A Network Optimization Model
+2017 10.1061/(asce)is.1943-555x.0000339 Using Tensor Factorization to Predict Network-Level Performance of Bridges
+2025 10.1061/jitse4.iseng-2378 Pavement Condition Prediction for Communities: A Low-Cost, Ubiquitous, and Network-Wide Approach
+2010 10.1061/(asce)is.1943-555x.0000024 Highway Network Retrofit under Seismic Hazard
+2017 10.1061/(asce)is.1943-555x.0000331 Social Network Analysis Approach for Improved Transportation Planning
+2003 10.1061/(asce)1076-0342(2003)9:2(75) Innovative Pavement Management and Planning System for Road Network of Portugal
+2014 10.1061/(asce)is.1943-555x.0000180 Cost Optimization of Hydraulic and Structural Rehabilitation of Urban Drainage Network
+2023 10.1061/jitse4.iseng-2227 Resilience Assessment for Streamline Network of Transportation Hub Complex Based on Service Performance
+1997 10.1061/(asce)1076-0342(1997)3:1(31) Network-Level Bridge Life-Cycle Management System
+2016 10.1061/(asce)is.1943-555x.0000280 Estimating Annual Maintenance Expenditures for Infrastructure: Artificial Neural Network Approach
+2007 10.1061/(asce)1076-0342(2007)13:2(124) Expected Performance of Pavement Repair Works in a Global Network Optimization Model
+2014 10.1061/(asce)is.1943-555x.0000198 Framework for Monitoring and Assessing Performance Quality of Railway Network Infrastructure: Hellenic Railway
+2016 10.1061/(asce)is.1943-555x.0000292 Strategic Model to Optimize Railway-Track Renewal Operations at a Network Level
+2022 10.1061/(asce)is.1943-555x.0000725 Prioritizing Road Network Restorative Interventions Using a Discrete Particle Swarm Optimization
+2008 10.1061/(asce)1076-0342(2008)14:1(15) Hierarchical Localization of Sensor Network for Infrastructure Monitoring
+2013 10.1061/(asce)is.1943-555x.0000127 Using a Guiding Network to Determine Efficient Evacuation Routes in a Public Building
+2026 10.1061/jitse4.iseng-2851 Budget Optimization for a Postearthquake Regional Road Network Considering Connectivity Reliability
+2024 10.1061/jitse4.iseng-2251 Selection and Evaluation of Integrated Solutions in a Combined Sewer Network
+2011 10.1061/(asce)is.1943-555x.0000068 Interface Network Models for Complex Urban Infrastructure Systems
+2020 10.1061/(asce)is.1943-555x.0000538 Rethinking Risk Propagation Mechanism in Public–Private Partnership Projects: Network Perspective
+2017 10.1061/(asce)is.1943-555x.0000277 Developing a Network-Level Structural Capacity Index for Composite Pavements
+## life-cycle cost 40
+2008 10.1061/(asce)1076-0342(2008)14:3(214) Integrated Life-Cycle Assessment and Life-Cycle Cost Analysis Model for Concrete Bridge Deck Applications
+2023 10.1061/jitse4.iseng-2169 Optimal Repair Policies for Infrastructure Systems with Life Cycle Cost Minimization and Annual Cost Leveling
+1996 10.1061/(asce)1076-0342(1996)2:3(118) Life-Cycle Cost Analysis with Natural Hazard Risk
+1999 10.1061/(asce)1076-0342(1999)5:1(1) Life Cycle Cost Analysis (LCCA) in Municipal Organizations
+2021 10.1061/(asce)is.1943-555x.0000607 Life-Cycle Cost Analysis of Deteriorating Civil Infrastructures Incorporating Social Sustainability
+2021 10.1061/(asce)is.1943-555x.0000596 Life-Cycle Cost Analysis Framework to Support Data Procurement Strategies for Infrastructure Assets
+2007 10.1061/(asce)1076-0342(2007)13:2(135) Factors Affecting Life-Cycle Cost Analysis of RC Structures in Chloride Contaminated Environments
+1995 10.1061/(asce)1076-0342(1995)1:3(151) State Increment Method of Life-Cycle Cost Analysis for Highway Management
+2004 10.1061/(asce)1076-0342(2004)10:4(167) Life-Cycle Cost Award Algorithms for Design/Build Highway Pavement Projects
+2005 10.1061/(asce)1076-0342(2005)11:4(231) Effect of Different Limit States on Life-Cycle Cost of RC Structures in Corrosive Environment
+2014 10.1061/(asce)is.1943-555x.0000170 Fuzzy Multicriteria Decision-Making Approach for Pavement Project Evaluation Using Life-Cycle Cost/Performance
+2023 10.1061/(asce)is.1943-555x.0000717 Life-Cycle Cost Model of High-Speed Railway Considering Carbon Emissions
+2019 10.1061/(asce)is.1943-555x.0000473 Integration Model of Fuzzy AHP and Life-Cycle Cost Analysis for Evaluating Highway Infrastructure Investments
+2013 10.1061/(asce)is.1943-555x.0000093 Network-Level Pavement Asset Management System Integrated with Life-Cycle Analysis and Life-Cycle Optimization
+2014 10.1061/(asce)is.1943-555x.0000157 Life Cycle Asset Management Methodologies for Buildings
+1997 10.1061/(asce)1076-0342(1997)3:4(129) Life-Cycle Costs of New Construction Materials
+2003 10.1061/(asce)1076-0342(2003)9:4(157) Life-Cycle Environmental Effects of an Office Building
+1996 10.1061/(asce)1076-0342(1996)2:1(5) Life-Cycle Costing in Municipal Construction Projects
+2022 10.1061/(asce)is.1943-555x.0000672 Life-Cycle Assessment of Deteriorating RC Bridges Using Artificial Neural Networks
+2004 10.1061/(asce)1076-0342(2004)10:3(87) Life-Cycle Impact Analysis of Energy Systems for Buildings
+2014 10.1061/(asce)is.1943-555x.0000169 Life-Cycle Management of Fatigue-Sensitive Structures Integrating Inspection Information
+2021 10.1061/(asce)is.1943-555x.0000639 Life Cycle Performance Measurement in Public–Private Partnership Infrastructure Projects
+2010 10.1061/(asce)1076-0342(2010)16:1(40) Life-Cycle Perspective on Residential Water Conservation Strategies
+2015 10.1061/(asce)is.1943-555x.0000168 Pavement Deterioration Model Incorporating Unobserved Heterogeneity for Optimal Life-Cycle Rehabilitation Poli
+1997 10.1061/(asce)1076-0342(1997)3:1(31) Network-Level Bridge Life-Cycle Management System
+2000 10.1061/(asce)1076-0342(2000)6:2(56) Optimal Life-Cycle Costing with Partial Observability
+2011 10.1061/(asce)is.1943-555x.0000036 Life-Cycle Assessment of Urban Water Provision: Tool and Case Study in California
+2003 10.1061/(asce)1076-0342(2003)9:1(6) Risk-based Life-cycle Costing of Infrastructure Rehabilitation and Construction Alternatives
+2002 10.1061/(asce)1076-0342(2002)8:4(132) Economic Input-output Life-cycle Assessment of U.S. Residential Buildings
+2015 10.1061/(asce)is.1943-555x.0000226 Determination of Optimal MR&amp;R Policies for Retaining Life-Cycle Connectivity of Bridge Networks
+2010 10.1061/(asce)is.1943-555x.0000042 Life-Cycle Optimization of Pavement Overlay Systems
+2010 10.1061/(asce)is.1943-555x.0000022 Life-Cycle Assessment Modeling of Construction Processes for Buildings
+2004 10.1061/(asce)1076-0342(2004)10:3(119) Life-Cycle Energy Analysis of a Water Distribution System
+2006 10.1061/(asce)1076-0342(2006)12:1(10) Life-Cycle Assessment of Office Buildings in Europe and the United States
+2013 10.1061/(asce)is.1943-555x.0000138 Sustainability of Natural Hazard Risk Mitigation: Life Cycle Analysis of Environmental Indicators for Bridge I
+2006 10.1061/(asce)1076-0342(2006)12:4(207) Example of a Hybrid Life-Cycle Assessment of Construction Processes
+2013 10.1061/(asce)is.1943-555x.0000114 Pavement Resurfacing Policy for Minimization of Life-Cycle Costs and Greenhouse Gas Emissions
+2013 10.1061/(asce)is.1943-555x.0000122 Life-Cycle Costs and Emissions of Pareto-Optimal Residential Roof-Mounted Photovoltaic Systems
+2011 10.1061/(asce)is.1943-555x.0000064 Preliminary Comparative Life-Cycle Impacts of Streetlight Technology
+2014 10.1061/(asce)is.1943-555x.0000211 Comparative Life Cycle Assessment of Conventional, Glass Powder, and Alkali-Activated Slag Concrete and Mortar
+## investment prioritization 31
+2016 10.1061/(asce)is.1943-555x.0000276 Prioritization of Capacity Investment Projects with Stakeholder Divergence Criteria for Coordinated Infrastruc
+2002 10.1061/(asce)1076-0342(2002)8:3(103) Prioritization of Schedule Dependencies in Hurricane Recovery of Transportation Agency
+2015 10.1061/(asce)is.1943-555x.0000217 Fair Division Transportation Allocation Model for Funding Prioritization
+2025 10.1061/jitse4.iseng-2697 Enhancing Road Asset Management with CityGML Enriched by Public Inputs: A Comprehensive Approach to Pothole Re
+2026 10.1061/jitse4.iseng-2919 Integrated Fuzzy ANP–Machine Learning Framework with Composite Risk Index for Strategic Passive Defence Priori
+2000 10.1061/(asce)1076-0342(2000)6:4(123) Investment Risk Analysis in Port Infrastructure Appraisal
+1997 10.1061/(asce)1076-0342(1997)3:4(134) Multistage Heuristic Approach for Solving Infrastructure Investment Decision Problems
+2008 10.1061/(asce)1076-0342(2008)14:3(241) Community Investment Programs in Developing Country Infrastructure Projects
+2006 10.1061/(asce)1076-0342(2006)12:1(18) Generalized Economic Modeling for Infrastructure and Capital Investment Projects
+2020 10.1061/(asce)is.1943-555x.0000568 Investment Valuation of Underground Freight Transportation Systems under Uncertainty
+2018 10.1061/(asce)is.1943-555x.0000411 Rational Method to Determine Investment Amount for Making Roadways Resilient to a Changing Climate
+1998 10.1061/(asce)1076-0342(1998)4:1(19) Risk Analysis of Traffic and Revenue Forecasts for Road Investment Projects
+2010 10.1061/(asce)is.1943-555x.0000015 Methodological Framework for Evaluation of Financial Viability of Public-Private Partnerships: Investment Risk
+2023 10.1061/jitse4.iseng-2150 Validation of SD Models for the Valuation of Exotic Options in Infrastructure Investment
+2026 10.1061/jitse4.iseng-2806 Fearing Scarcity or Inequality: Urban Infrastructure Investment and Individual Subjective Wellbeing in China
+2011 10.1061/(asce)is.1943-555x.0000066 Critical Assessment Indicators for Measuring Benefits of Rural Infrastructure Investment in China
+2006 10.1061/(asce)1076-0342(2006)12:4(216) Evaluating the Effectiveness of State Department of Transportation Investment Decisions: Linking Performance M
+2015 10.1061/(asce)is.1943-555x.0000256 Linking Interstate Pavement Preservation Investment to Performance: An Exploratory Aggregate Analysis
+2013 10.1061/(asce)is.1943-555x.0000142 Risk-Informed Investment for Tropical Cyclone Preparedness of Highway Signs, Signals, and Lights
+2026 10.1061/jitse4.iseng-2728 Domino Effect: An Exposition of Systemic Risk for Financing Infrastructure through Real Estate Investment Trus
+2019 10.1061/(asce)is.1943-555x.0000503 Foreign Direct Investment in Infrastructure Projects: Taxonomy of Political Risk Profiles in Developing Countr
+2019 10.1061/(asce)is.1943-555x.0000505 Examining Relationship between Infrastructure Investment and Performance Using State-Level Data
+2023 10.1061/jitse4.iseng-2151 The Mediating Role of Infrastructure Vulnerability on the Political Risk of Foreign Infrastructure Investment 
+2008 10.1061/(asce)1076-0342(2008)14:3(193) Municipal Infrastructure Asset Levels of Service Assessment for Investment Decisions Using Analytic Hierarchy 
+2022 10.1061/(asce)is.1943-555x.0000678 The Other Side of the Interdependency Coin: Identifying Coordination and Investment Opportunities for Infrastr
+2019 10.1061/(asce)is.1943-555x.0000507 Synergizing Roadway Infrastructure Investment with Digital Infrastructure for Infrastructure-Based Connected V
+2023 10.1061/(asce)is.1943-555x.0000724 Impact of Sectoral Infrastructure on Export and Foreign Direct Investment Inflow: Evidence from Selected South
+2021 10.1061/(asce)is.1943-555x.0000603 Proactive Operations and Investment Planning via Stochastic Optimization to Enhance Power Systems’ Extreme Wea
+1999 10.1061/(asce)1076-0342(1999)5:3(112) Risk Analysis of Traffic and Revenue Forecasts for Road Investment Projects
+2025 10.1061/jitse4.iseng-2420 Development of a Holistic Wellbeing Framework and Conceptual Model for Infrastructure Investment: A Comprehens
+2020 10.1061/(asce)is.1943-555x.0000554 Erratum for “Examining Relationship between Infrastructure Investment and Performance Using State-Level Data” 
+## incomplete information 11
+2004 10.1061/(asce)1076-0342(2004)10:3(79) Infrastructure in the Anthropocene: Example of Information and Communication Technology
+2015 10.1061/(asce)is.1943-555x.0000231 Agent-Based Information System for Electric Vehicle Charging Infrastructure Deployment
+2014 10.1061/(asce)is.1943-555x.0000169 Life-Cycle Management of Fatigue-Sensitive Structures Integrating Inspection Information
+2000 10.1061/(asce)1076-0342(2000)6:1(1) Engineering System Research in the Information Technology Age
+2020 10.1061/(asce)is.1943-555x.0000582 Smart Data Management of Urban Infrastructure Using Geographic Information Systems
+2024 10.1061/jitse4.iseng-2407 Protecting Critical Infrastructure for Disasters: NLP-Based Automated Information Retrieval to Generate Hypoth
+2026 10.1061/jitse4.iseng-2811 Integrating Real-Time Monitoring Information into Asset Failure Modeling: Application to ETC Facilities
+2018 10.1061/(asce)is.1943-555x.0000393 Use of Unmanned Aerial Vehicle Photogrammetry to Obtain Topographical Information to Improve Bridge Risk Asses
+2013 10.1061/(asce)is.1943-555x.0000165 Civil Infrastructure Decision Making as a Chaotic Sociotechnical System: Role of Information Systems in Engagi
+2014 10.1061/(asce)is.1943-555x.0000227 Erratum for “Life-Cycle Management of Fatigue-Sensitive Structures Integrating Inspection Information” by S. M
+2017 10.1061/(asce)is.1943-555x.0000377 Progress and Challenges in Incorporating Climate Change Information into Transportation Research and Design
+## distribution system 40
+2015 10.1061/(asce)is.1943-555x.0000199 Evaluating Flexibility in Water Distribution System Design under Future Demand Uncertainty
+2007 10.1061/(asce)1076-0342(2007)13:1(55) Risk Factors of Structural Degradation of an Urban Water Distribution System
+2000 10.1061/(asce)1076-0342(2000)6:3(118) Infrastructure Risk Analysis of Municipal Water Distribution System
+2009 10.1061/(asce)1076-0342(2009)15:3(241) Evaluating Environmental Impact in Water Distribution System Design
+2017 10.1061/(asce)is.1943-555x.0000316 Assessing Climate Change Impact on System Reliability of Power Distribution Systems Subjected to Hurricanes
+2004 10.1061/(asce)1076-0342(2004)10:3(119) Life-Cycle Energy Analysis of a Water Distribution System
+2011 10.1061/(asce)is.1943-555x.0000039 Postearthquake Recovery of a Water Distribution System: Discrete Event Simulation Using Colored Petri Nets
+2020 10.1061/(asce)is.1943-555x.0000517 Machine-Learning–Based Risk Assessment Method for Leak Detection and Geolocation in a Water Distribution Syste
+2016 10.1061/(asce)is.1943-555x.0000288 Erratum for “Evaluating Flexibility in Water Distribution System Design under Future Demand Uncertainty” by In
+2011 10.1061/(asce)is.1943-555x.0000031 Discussion of “Evaluating Environmental Impact in Water Distribution System Design” by L. M. Herstein, Y. R. F
+2011 10.1061/(asce)is.1943-555x.0000045 Closure to “Evaluating Environmental Impact in Water Distribution System Design” by L. M. Herstein, Y. R. Fili
+2026 10.1061/jitse4.iseng-2861 Intelligent Acoustic-Based IoT-Enabled Sensing and Monitoring System for Automated Real-Time Leak Detection, L
+2006 10.1061/(asce)1076-0342(2006)12:3(147) Condition Assessment of Water Distribution Pipes
+2015 10.1061/(asce)is.1943-555x.0000224 Vulnerability Assessment of Water Distribution Networks Considering Performance Data
+2020 10.1061/(asce)is.1943-555x.0000561 Triple Top Line–Based Sustainability Measure for Water Distribution Systems
+2022 10.1061/(asce)is.1943-555x.0000710 Performance Forecasts of US Highway Bridge Networks Using Generalized Poisson–Binomial Distribution
+2020 10.1061/(asce)is.1943-555x.0000563 Water Distribution–Transportation Interface Connectivity Responding to Urban Geospatial Morphology
+2015 10.1061/(asce)is.1943-555x.0000204 Resilience-Based Design of Natural Gas Distribution Networks
+2008 10.1061/(asce)1076-0342(2008)14:4(337) Impact of Urban Form on Energy Use in Water Distribution Systems
+2021 10.1061/(asce)is.1943-555x.0000594 Reliability Assessment of Water Distribution Networks Using Minimum Cut Set Analysis
+2021 10.1061/(asce)is.1943-555x.0000646 Integrated Planning of Operational Maintenance Programs for Water and Gas Distribution Networks
+2017 10.1061/(asce)is.1943-555x.0000324 Reliability-Based Assessment of Lifecycle Cost of Urban Water Distribution Infrastructures
+2006 10.1061/(asce)1076-0342(2006)12:4(252) Methodology for Locating Monitoring Stations to Detect Contamination in Potable Water Distribution Systems
+2018 10.1061/(asce)is.1943-555x.0000426 Performance Evaluation of Water Distribution Systems and Asset Management
+2006 10.1061/(asce)1076-0342(2006)12:3(184) Optimal Scheduling of Replacement and Rehabilitation of Water Distribution Systems
+2023 10.1061/jitse4.iseng-1677 Spatiotemporal Vulnerability Analysis of Large-Scale Infrastructure Systems under Cascading Failures: Case of 
+2005 10.1061/(asce)1076-0342(2005)11:4(221) Simultaneous Layout and Size Optimization of Water Distribution Networks: Engineering Approach
+2013 10.1061/(asce)is.1943-555x.0000156 Two-Tiered Sensor Placement for Large Water Distribution Network Models
+2021 10.1061/(asce)is.1943-555x.0000620 Accounting for Source Location on the Vulnerability Assessment of Water Distribution Network
+2025 10.1061/jitse4.iseng-2619 Multiobjective Game Theory Model for Identifying Proactive Pipeline Rehabilitation Strategies in Water Distrib
+2026 10.1061/jitse4.iseng-2778 Anticipatory Risk Assessment and Mitigation for Water Distribution Infrastructures in Coastal Communities Subj
+1996 10.1061/(asce)1076-0342(1996)2:2(65) Water Distribution Network Reliability: Stochastic Simulation
+2013 10.1061/(asce)is.1943-555x.0000108 Hurricane Risk Assessment of Power Distribution Poles Considering Impacts of a Changing Climate
+1996 10.1061/(asce)1076-0342(1996)2:2(54) Water Distribution Network Reliability: Connectivity Analysis
+2025 10.1061/jitse4.iseng-2448 Resilience Assessment of Urban Water Distribution Networks under Disturbance Influence of Aftershocks
+2008 10.1061/(asce)1076-0342(2008)14:3(262) Alternative Transportation Fuels: Distribution Infrastructure for Hydrogen and Ethanol in Iowa
+2013 10.1061/(asce)is.1943-555x.0000130 Greenhouse Gas Emissions from the Construction, Manufacturing, Operation, and Maintenance of U.S. Distribution
+2018 10.1061/(asce)is.1943-555x.0000412 Optimal Welfare Price for a Highway Competing with an Untolled Alternative: Influence of Income Distribution
+2017 10.1061/(asce)is.1943-555x.0000336 Modeling the Frequency of Water Main Breaks in Water Distribution Systems: Random-Parameters Negative-Binomial
+2009 10.1061/(asce)1076-0342(2009)15:2(136) Discussion of “Simultaneous Layout and Size Optimization of Water Distribution Networks: Engineering Approach”
+## power distribution undergrounding 40
+2017 10.1061/(asce)is.1943-555x.0000316 Assessing Climate Change Impact on System Reliability of Power Distribution Systems Subjected to Hurricanes
+2013 10.1061/(asce)is.1943-555x.0000108 Hurricane Risk Assessment of Power Distribution Poles Considering Impacts of a Changing Climate
+2018 10.1061/(asce)is.1943-555x.0000423 Power Infrastructure Sector Reforms, Power Generation, and Private Investments: Case Study from Ghana’s Power 
+2006 10.1061/(asce)1076-0342(2006)12:3(147) Condition Assessment of Water Distribution Pipes
+2015 10.1061/(asce)is.1943-555x.0000224 Vulnerability Assessment of Water Distribution Networks Considering Performance Data
+2020 10.1061/(asce)is.1943-555x.0000561 Triple Top Line–Based Sustainability Measure for Water Distribution Systems
+2022 10.1061/(asce)is.1943-555x.0000710 Performance Forecasts of US Highway Bridge Networks Using Generalized Poisson–Binomial Distribution
+2015 10.1061/(asce)is.1943-555x.0000199 Evaluating Flexibility in Water Distribution System Design under Future Demand Uncertainty
+2020 10.1061/(asce)is.1943-555x.0000563 Water Distribution–Transportation Interface Connectivity Responding to Urban Geospatial Morphology
+2015 10.1061/(asce)is.1943-555x.0000204 Resilience-Based Design of Natural Gas Distribution Networks
+2008 10.1061/(asce)1076-0342(2008)14:4(337) Impact of Urban Form on Energy Use in Water Distribution Systems
+2007 10.1061/(asce)1076-0342(2007)13:1(55) Risk Factors of Structural Degradation of an Urban Water Distribution System
+2021 10.1061/(asce)is.1943-555x.0000594 Reliability Assessment of Water Distribution Networks Using Minimum Cut Set Analysis
+2021 10.1061/(asce)is.1943-555x.0000646 Integrated Planning of Operational Maintenance Programs for Water and Gas Distribution Networks
+2017 10.1061/(asce)is.1943-555x.0000324 Reliability-Based Assessment of Lifecycle Cost of Urban Water Distribution Infrastructures
+2006 10.1061/(asce)1076-0342(2006)12:4(252) Methodology for Locating Monitoring Stations to Detect Contamination in Potable Water Distribution Systems
+2000 10.1061/(asce)1076-0342(2000)6:3(118) Infrastructure Risk Analysis of Municipal Water Distribution System
+2009 10.1061/(asce)1076-0342(2009)15:3(241) Evaluating Environmental Impact in Water Distribution System Design
+2018 10.1061/(asce)is.1943-555x.0000426 Performance Evaluation of Water Distribution Systems and Asset Management
+2006 10.1061/(asce)1076-0342(2006)12:3(184) Optimal Scheduling of Replacement and Rehabilitation of Water Distribution Systems
+2023 10.1061/jitse4.iseng-1677 Spatiotemporal Vulnerability Analysis of Large-Scale Infrastructure Systems under Cascading Failures: Case of 
+2004 10.1061/(asce)1076-0342(2004)10:3(119) Life-Cycle Energy Analysis of a Water Distribution System
+2005 10.1061/(asce)1076-0342(2005)11:4(221) Simultaneous Layout and Size Optimization of Water Distribution Networks: Engineering Approach
+2013 10.1061/(asce)is.1943-555x.0000156 Two-Tiered Sensor Placement for Large Water Distribution Network Models
+2021 10.1061/(asce)is.1943-555x.0000620 Accounting for Source Location on the Vulnerability Assessment of Water Distribution Network
+2025 10.1061/jitse4.iseng-2619 Multiobjective Game Theory Model for Identifying Proactive Pipeline Rehabilitation Strategies in Water Distrib
+2026 10.1061/jitse4.iseng-2778 Anticipatory Risk Assessment and Mitigation for Water Distribution Infrastructures in Coastal Communities Subj
+1996 10.1061/(asce)1076-0342(1996)2:2(65) Water Distribution Network Reliability: Stochastic Simulation
+2025 10.1061/jitse4.iseng-2448 Resilience Assessment of Urban Water Distribution Networks under Disturbance Influence of Aftershocks
+1996 10.1061/(asce)1076-0342(1996)2:2(54) Water Distribution Network Reliability: Connectivity Analysis
+2011 10.1061/(asce)is.1943-555x.0000039 Postearthquake Recovery of a Water Distribution System: Discrete Event Simulation Using Colored Petri Nets
+2016 10.1061/(asce)is.1943-555x.0000288 Erratum for “Evaluating Flexibility in Water Distribution System Design under Future Demand Uncertainty” by In
+2020 10.1061/(asce)is.1943-555x.0000517 Machine-Learning–Based Risk Assessment Method for Leak Detection and Geolocation in a Water Distribution Syste
+2008 10.1061/(asce)1076-0342(2008)14:3(262) Alternative Transportation Fuels: Distribution Infrastructure for Hydrogen and Ethanol in Iowa
+2013 10.1061/(asce)is.1943-555x.0000130 Greenhouse Gas Emissions from the Construction, Manufacturing, Operation, and Maintenance of U.S. Distribution
+2018 10.1061/(asce)is.1943-555x.0000412 Optimal Welfare Price for a Highway Competing with an Untolled Alternative: Influence of Income Distribution
+2017 10.1061/(asce)is.1943-555x.0000336 Modeling the Frequency of Water Main Breaks in Water Distribution Systems: Random-Parameters Negative-Binomial
+2016 10.1061/(asce)is.1943-555x.0000267 Hurricane Isaac Power Outage Impacts and Restoration
+2020 10.1061/(asce)is.1943-555x.0000524 Resilience Modeling of Interdependent Traffic-Electric Power System Subject to Hurricanes
+2026 10.1061/jitse4.iseng-3052 Challenges and Opportunities for Synthetic Water Distribution Models
+## electric power 25
+2020 10.1061/(asce)is.1943-555x.0000524 Resilience Modeling of Interdependent Traffic-Electric Power System Subject to Hurricanes
+2006 10.1061/(asce)1076-0342(2006)12:4(243) Using Disturbance Data to Assess Vulnerability of Electric Power Delivery Systems
+2015 10.1061/(asce)is.1943-555x.0000222 Bayesian Multiscale Modeling of Spatial Infrastructure Performance Predictions with an Application to Electric
+2009 10.1061/(asce)1076-0342(2009)15:1(3) Multiperiod Competition in an Electric Power Network and Impacts of Infrastructure Disruptions
+2005 10.1061/(asce)1076-0342(2005)11:4(258) Negative Binomial Regression of Electric Power Outages in Hurricanes
+2013 10.1061/(asce)is.1943-555x.0000103 Empirical Data and Regression Analysis for Estimation of Infrastructure Resilience with Application to Electri
+2017 10.1061/(asce)is.1943-555x.0000395 Modeling Electric Power and Natural Gas System Interdependencies
+2022 10.1061/(asce)is.1943-555x.0000714 Policies and Incentives for Promoting Distributed Solar Generation: Impact on Electric Power Infrastructure
+2018 10.1061/(asce)is.1943-555x.0000423 Power Infrastructure Sector Reforms, Power Generation, and Private Investments: Case Study from Ghana’s Power 
+2015 10.1061/(asce)is.1943-555x.0000231 Agent-Based Information System for Electric Vehicle Charging Infrastructure Deployment
+2026 10.1061/jitse4.iseng-2890 Quantifying the Feasible Operating Range of Gravity Battery Electric Trains on Mine-to-Port Railways
+2025 10.1061/jitse4.iseng-2502 Impact of Conventional and Electric Delivery Vehicles on Road Wear in Residential Areas: A Case Study in Evans
+2023 10.1061/jitse4.iseng-2191 Robust Design of Electric Charging Infrastructure Locations under Travel Demand Uncertainty and Driving Range 
+2016 10.1061/(asce)is.1943-555x.0000267 Hurricane Isaac Power Outage Impacts and Restoration
+2021 10.1061/(asce)is.1943-555x.0000648 Economic Impact Assessment of Severe Weather–Induced Power Outages in the US
+2004 10.1061/(asce)1076-0342(2004)10:3(111) Greenhouse Gas Emissions from Coal Gasification Power Generation Systems
+2017 10.1061/(asce)is.1943-555x.0000316 Assessing Climate Change Impact on System Reliability of Power Distribution Systems Subjected to Hurricanes
+2014 10.1061/(asce)is.1943-555x.0000176 Restoration and Impacts from the September 8, 2011, San Diego Power Outage
+2024 10.1061/jitse4.iseng-2375 Climate-Proofing Critical Energy Infrastructure: Smart Grids, Artificial Intelligence, and Machine Learning fo
+2013 10.1061/(asce)is.1943-555x.0000108 Hurricane Risk Assessment of Power Distribution Poles Considering Impacts of a Changing Climate
+2016 10.1061/(asce)is.1943-555x.0000296 Comparison of Power and Telecommunications Dependencies and Interdependencies in the 2011 Tohoku and 2010 Maul
+2022 10.1061/(asce)is.1943-555x.0000677 Dynamic Network Flow Model for Power Grid Systemic Risk Assessment and Resilience Enhancement
+2026 10.1061/jitse4.iseng-2849 Classification of Atmospheric Ice Accretion Emergency Event Management Techniques to Support Resilient Decisio
+2021 10.1061/(asce)is.1943-555x.0000603 Proactive Operations and Investment Planning via Stochastic Optimization to Enhance Power Systems’ Extreme Wea
+2009 10.1061/(asce)1076-0342(2009)15:3(179) Data Management for Geospatial Vulnerability Assessment of Interdependencies in U.S. Power Generation
+## optimization constraints 40
+2006 10.1061/(asce)1076-0342(2006)12:2(112) Contingency Planning in Project Selection Using Multiobjective Optimization and Chance Constraints
+2014 10.1061/(asce)is.1943-555x.0000149 Simultaneous Network Optimization Approach for Pavement Management Systems
+2010 10.1061/(asce)1076-0342(2010)16:2(149) Pipe Routing through Ant Colony Optimization
+2012 10.1061/(asce)is.1943-555x.0000077 Pavement Network Maintenance Optimization Considering Multidimensional Condition Data
+1999 10.1061/(asce)1076-0342(1999)5:4(124) Optimization of Infrastructure Systems Maintenance and Improvement Policies
+2016 10.1061/(asce)is.1943-555x.0000287 Risk-Cost Optimization of Buried Pipelines Using Subset Simulation
+2016 10.1061/(asce)is.1943-555x.0000264 Optimization of Transportation-Infrastructure-System Protection Considering Weighted Connectivity Reliability
+1997 10.1061/(asce)1076-0342(1997)3:4(154) Fuzzy Set-Based and Performance-Oriented Pavement Network Optimization System
+2013 10.1061/(asce)is.1943-555x.0000106 Optimization-Based Regional Hurricane Mitigation Planning
+2014 10.1061/(asce)is.1943-555x.0000180 Cost Optimization of Hydraulic and Structural Rehabilitation of Urban Drainage Network
+2022 10.1061/(asce)is.1943-555x.0000681 Digitalizing the Determination of Railway Infrastructure Intervention Programs: A Network Optimization Model
+2026 10.1061/jitse4.iseng-2707 Joint Optimal Policies for Pavement Maintenance, Repaving, and Reconstruction: A Static Optimization Approach
+2017 10.1061/(asce)is.1943-555x.0000345 Probabilistic Design of Environmentally Sustainable Reinforced-Concrete Transportation Infrastructure Incorpor
+2016 10.1061/(asce)is.1943-555x.0000259 Objective Procedure for Optimization of Inspection and Testing Strategies for Spillways
+2014 10.1061/(asce)is.1943-555x.0000194 Empirical Model with Environmental Considerations in Highway Alignment Optimization
+1999 10.1061/(asce)1076-0342(1999)5:3(102) Structural Design Considerations in House Builders' Model: Optimization Approach
+2012 10.1061/(asce)is.1943-555x.0000087 Optimization of Short-Term On-Street Park-Pay License Plate Surveying
+2007 10.1061/(asce)1076-0342(2007)13:2(124) Expected Performance of Pavement Repair Works in a Global Network Optimization Model
+2020 10.1061/(asce)is.1943-555x.0000537 Fuzzy Reliability and Risk-Based Maintenance of Buried Pipelines Using Multiobjective Optimization
+2016 10.1061/(asce)is.1943-555x.0000303 Bilevel Construction Site Layout Optimization Based on Hazardous-Material Transportation
+2020 10.1061/(asce)is.1943-555x.0000566 Hybrid Method of Recovery: Combining Topology and Optimization for Transportation Systems
+2022 10.1061/(asce)is.1943-555x.0000725 Prioritizing Road Network Restorative Interventions Using a Discrete Particle Swarm Optimization
+2010 10.1061/(asce)is.1943-555x.0000042 Life-Cycle Optimization of Pavement Overlay Systems
+2026 10.1061/jitse4.iseng-2851 Budget Optimization for a Postearthquake Regional Road Network Considering Connectivity Reliability
+2007 10.1061/(asce)1076-0342(2007)13:3(195) History-Dependent Bridge Deck Maintenance and Replacement Optimization with Markov Decision Processes
+2022 10.1061/(asce)is.1943-555x.0000707 Social Cost Optimization Model and Empirical Evaluation of Intervention Effects on Ugandan Road Pavements
+2026 10.1061/jitse4.iseng-2954 Optimization of Highway EV Charging Infrastructure Considering Station Attractiveness and User Equilibrium
+2009 10.1061/(asce)1076-0342(2009)15:2(70) Optimization Model for Design and Operation of Transportation Networks in Seismic Regions
+2021 10.1061/(asce)is.1943-555x.0000641 Practical Two-Stage Bottom-Up Approach with a New Optimization Objective for Infrastructure Maintenance Manage
+2006 10.1061/(asce)1076-0342(2006)12:3(192) Adaptive Optimization and Systematic Probing of Infrastructure System Maintenance Policies under Model Uncerta
+2024 10.1061/jitse4.iseng-2489 Multiyear Maintenance and Rehabilitation Optimization for Large-Scale Infrastructure Networks: An Enhanced Gen
+2005 10.1061/(asce)1076-0342(2005)11:4(221) Simultaneous Layout and Size Optimization of Water Distribution Networks: Engineering Approach
+2022 10.1061/(asce)is.1943-555x.0000700 Determination of Postdisaster Restoration Programs for Road Networks Using a Double-Stage Optimization Approac
+2016 10.1061/(asce)is.1943-555x.0000278 Cost–Benefit Analysis and Microclimate-Based Optimization of a RWIS Network
+2019 10.1061/(asce)is.1943-555x.0000491 Development of Zonal-Specific Semivariograms for a Strategic RWIS Network Optimization: Case Study
+2021 10.1061/(asce)is.1943-555x.0000638 Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of Demand Critica
+2019 10.1061/(asce)is.1943-555x.0000465 Health Care System Disaster-Resilience Optimization Given Its Reliance on Interdependent Critical Lifelines
+2017 10.1061/(asce)is.1943-555x.0000355 Two-Stage Multiobjective Optimization of Maintenance Scheduling for Pavements
+2003 10.1061/(asce)1076-0342(2003)9:4(133) Adaptive Optimization of Infrastructure Maintenance and Inspection Decisions under Performance Model Uncertain
+2017 10.1061/(asce)is.1943-555x.0000356 Hierarchical Supplier Selection Optimization with Multiple Items in Large-Scale Construction Projects
+## replacement planning 40
+2006 10.1061/(asce)1076-0342(2006)12:3(184) Optimal Scheduling of Replacement and Rehabilitation of Water Distribution Systems
+2015 10.1061/(asce)is.1943-555x.0000208 Analysis of Pavement Overlay and Replacement Performance Using Random Parameters Hazard-Based Duration Models
+2007 10.1061/(asce)1076-0342(2007)13:3(195) History-Dependent Bridge Deck Maintenance and Replacement Optimization with Markov Decision Processes
+2014 10.1061/(asce)is.1943-555x.0000191 Environmental and Economic Life-Cycle Assessment of Municipal Water-Storage Options: Infrastructure Refurbishm
+2014 10.1061/(asce)is.1943-555x.0000189 Pavement Maintenance Planning at the Network Level with Principal Component Analysis
+2007 10.1061/(asce)1076-0342(2007)13:1(65) Pavement Resurfacing Planning for Highway Networks: Parametric Policy Iteration Approach
+2001 10.1061/(asce)1076-0342(2001)7:2(58) MSRP: Model for Station Rehabilitation Planning
+2009 10.1061/(asce)1076-0342(2009)15:1(1) Infrastructure Planning, Design, and Management for Big Events
+2026 10.1061/jitse4.iseng-2893 Understanding the Planning Process for Nonroutine Railway Interventions in Switzerland
+2017 10.1061/(asce)is.1943-555x.0000380 Emergence of Antifragility by Optimum Postdisruption Restoration Planning of Infrastructure Networks
+2009 10.1061/(asce)1076-0342(2009)15:1(21) Planning for Evacuation: Insights from an Efficient Network Design Model
+2018 10.1061/(asce)is.1943-555x.0000432 Adaptive Capacity Planning Formulation for Infrastructure Networks
+2017 10.1061/(asce)is.1943-555x.0000358 Decision Support System for Planning Traffic Operations Assets
+2009 10.1061/(asce)1076-0342(2009)15:4(261) Transportation Infrastructure Planning, Management, and Finance
+2007 10.1061/(asce)1076-0342(2007)13:3(202) Algorithm for the Planning of Optimum Highway Work Zones
+2013 10.1061/(asce)is.1943-555x.0000106 Optimization-Based Regional Hurricane Mitigation Planning
+1997 10.1061/(asce)1076-0342(1997)3:1(1) Viewpoint: Airline Planning and Marketing in a Changing Environment
+2022 10.1061/(asce)is.1943-555x.0000664 Flexible Planning for Intercity Multimodal Transport Infrastructure
+2017 10.1061/(asce)is.1943-555x.0000331 Social Network Analysis Approach for Improved Transportation Planning
+2021 10.1061/(asce)is.1943-555x.0000646 Integrated Planning of Operational Maintenance Programs for Water and Gas Distribution Networks
+2003 10.1061/(asce)1076-0342(2003)9:2(75) Innovative Pavement Management and Planning System for Road Network of Portugal
+2017 10.1061/(asce)is.1943-555x.0000362 Sidewalk Infrastructure Assessment Using a Multicriteria Methodology for Maintenance Planning
+2009 10.1061/(asce)1076-0342(2009)15:4(290) Optimal Road Capacity Building: Road Planning by Marginal Cost Pricing
+2017 10.1061/(asce)is.1943-555x.0000338 Graph Model for Probabilistic Resilience and Recovery Planning of Multi-Infrastructure Systems
+2019 10.1061/(asce)is.1943-555x.0000474 Scenario Planning Application in US Highway Transportation Industry
+2002 10.1061/(asce)1076-0342(2002)8:2(42) Extreme Event Scenarios for Planning of Infrastructure Projects
+2019 10.1061/(asce)is.1943-555x.0000506 Transportation Infrastructure Protection Planning against Sea Level Rise: Analysis Using Operational Landscape
+2026 10.1061/jitse4.iseng-2814 Multiyear Maintenance Planning for Large-Scale Infrastructure Systems: A Novel Network Deep Q-Learning Approac
+2025 10.1061/jitse4.iseng-2763 Mapping the Swiss Road and Rail Infrastructure Planning Process and Identifying Potential Areas for Improvemen
+2006 10.1061/(asce)1076-0342(2006)12:2(112) Contingency Planning in Project Selection Using Multiobjective Optimization and Chance Constraints
+2022 10.1061/(asce)is.1943-555x.0000699 Arc- and Path-Based Models and a Heuristic Method for the Building Evacuation Planning Problem
+2021 10.1061/(asce)is.1943-555x.0000634 Risk-Informed Decision-Making for Predisaster Risk Mitigation Planning of Interdependent Infrastructure System
+2008 10.1061/(asce)1076-0342(2008)14:3(201) Levee Performance Assessment Methods Integrated in a GIS to Support Planning Maintenance Actions
+2026 10.1061/jitse4.iseng-2739 Understanding the Road Intervention Planning Process to Improve Efficiency and Effectiveness Using Digital Too
+2016 10.1061/(asce)is.1943-555x.0000275 An Integrated Productivity-Practices Implementation Index for Planning the Execution of Infrastructure Project
+2026 10.1061/jitse4.iseng-2989 Human–Machine Collaboration in Intelligent Site Planning: An Empirical Exploration on Airport Earthworks
+2023 10.1061/jitse4.iseng-2175 Multiobjective Optimization Method for Pavement Segment Grouping in Multiyear Network-Level Planning of Mainte
+2025 10.1061/jitse4.iseng-2585 Mechanism of Asset Devaluation in the Planning Stage of Urban Rail Transit PPP Projects in China: A System Dyn
+2011 10.1061/(asce)is.1943-555x.0000067 Bilevel Optimization for Integrated Shelter Location Analysis and Transportation Planning for Hurricane Events
+2022 10.1061/(asce)is.1943-555x.0000719 Postdisaster Recovery Planning for Interdependent Infrastructure Systems Prioritizing the Functionality of Hea
+## spatial 15
+2019 10.1061/(asce)is.1943-555x.0000490 How Spatial and Functional Dependencies between Operations and Infrastructure Leads to Resilient Recovery
+2010 10.1061/(asce)is.1943-555x.0000014 Effects of Pavement Spatial Variability on Contractor’s Management Strategies
+2021 10.1061/(asce)is.1943-555x.0000589 Role of Spatial Effect in Postdisaster Housing Recovery: Case Study of Hurricane Katrina
+2025 10.1061/jitse4.iseng-2488 Risk-Based Spatial Safety Management System Approach: The Case of Trabzon Airport
+1996 10.1061/(asce)1076-0342(1996)2:1(15) Risk-Based Spatial Decision Support System for Maintenance Dredging of Navigation Channels
+2015 10.1061/(asce)is.1943-555x.0000222 Bayesian Multiscale Modeling of Spatial Infrastructure Performance Predictions with an Application to Electric
+2019 10.1061/(asce)is.1943-555x.0000509 Impact of Coastal Hazards on Residents’ Spatial Accessibility to Health Services
+2021 10.1061/(asce)is.1943-555x.0000638 Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of Demand Critica
+2023 10.1061/(asce)is.1943-555x.0000726 Estimating the Values of Missing Data Related to Infrastructure Condition States Using Their Spatial Correlati
+2016 10.1061/(asce)is.1943-555x.0000290 Investigation of the Ability to Estimate Values of Road Section Condition Indicators Based on Their Spatial Co
+2018 10.1061/(asce)is.1943-555x.0000444 Exploring Spatial Relationship between Roadway Safety and Wet Condition Risk Factors Based on Systemic Safety 
+2022 10.1061/(asce)is.1943-555x.0000673 Aggregate Spatial Analysis of Design Reliability to Sight Distance Requirements: Assessing Reliability of Tran
+2012 10.1061/(asce)is.1943-555x.0000100 Spatial Incidence of Economic Benefit of Road-Network Investments: Case Studies under the Usual and Disaster S
+2022 10.1061/(asce)is.1943-555x.0000705 Spatial Characterization of Strain Variation in the Profile of Tunnel Structure Using Monitoring Data and Nume
+2022 10.1061/(asce)is.1943-555x.0000696 Discussion of “Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of
+## pipe replacement 31
+1996 10.1061/(asce)1076-0342(1996)2:4(162) Pipe-Soil Interaction Analysis of Field Tests of Buried PVC Pipe
+2010 10.1061/(asce)1076-0342(2010)16:2(149) Pipe Routing through Ant Colony Optimization
+1999 10.1061/(asce)1076-0342(1999)5:4(150) Disaggregation of Environmental Factors Affecting Sewer Pipe Failures
+2021 10.1061/(asce)is.1943-555x.0000586 Operational Risk-Based Decision Making for Wastewater Pipe Management
+2023 10.1061/jitse4.iseng-2247 Predicting Water Pipe Failures Using Deep Learning Algorithms
+2007 10.1061/(asce)1076-0342(2007)13:3(247) Productivity Study of Microtunneling Pipe Installation Using Simulation
+2019 10.1061/(asce)is.1943-555x.0000500 Statistical Inference of Sewer Pipe Deterioration Using Bayesian Geoadditive Regression Model
+2002 10.1061/(asce)1076-0342(2002)8:2(49) Markov Model for Storm Water Pipe Deterioration
+2003 10.1061/(asce)1076-0342(2003)9:4(140) Simulation for Ground Movements due to Pipe Bursting
+2008 10.1061/(asce)1076-0342(2008)14:3(178) Time and Cost Saving Strategies for Water Pipe Lining Operations
+2007 10.1061/(asce)1076-0342(2007)13:1(26) Prediction of Water Pipe Asset Life Using Neural Networks
+2018 10.1061/(asce)is.1943-555x.0000439 Identification of Critical Pipes for Proactive Resource-Constrained Seismic Rehabilitation of Water Pipe Netwo
+2024 10.1061/jitse4.iseng-2297 Discussion of “Image Processing–Based Framework for Determining Deterioration in Sewer Pipe Defects”
+2009 10.1061/(asce)1076-0342(2009)15:3(162) Failure Assessment Modeling to Prioritize Water Pipe Renewal: Two Case Studies
+2013 10.1061/(asce)is.1943-555x.0000098 Performance of Ductile Iron Pipes. II: Sampling Scheme and Inferring the Pipe Condition
+2002 10.1061/(asce)1076-0342(2002)8:1(12) Methods for Estimating Pipe Pullback Loads for Horizontal Directional Drilling (HDD) Crossings
+2008 10.1061/(asce)1076-0342(2008)14:3(230) Full-Scale Experimental Determination of Concrete Pipe Joint Behavior and Its Modeling
+2022 10.1061/(asce)is.1943-555x.0000713 Image Processing–Based Framework for Determining Deterioration in Sewer Pipe Defects
+2021 10.1061/(asce)is.1943-555x.0000638 Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of Demand Critica
+2017 10.1061/(asce)is.1943-555x.0000326 Experimental Performance Evaluation of Pipelines Rehabilitated with Cured-In-Place Pipe Liner under Earthquake
+2009 10.1061/(asce)1076-0342(2009)15:2(135) Closure to “Productivity Study of Microtunneling Pipe Installation Using Simulation” by Roy Yu Luo and Mohamma
+2013 10.1061/(asce)is.1943-555x.0000154 Comparative Study of Three Stochastic Models for Prediction of Pipe Failures in Water Supply Systems
+2022 10.1061/(asce)is.1943-555x.0000683 Performance Evaluation of Pipe Break Machine Learning Models Using Datasets from Multiple Utilities
+2008 10.1061/(asce)1076-0342(2008)14:3(272) Discussion of “Prediction of Water Pipe Asset Life Using Neural Networks” by D. Achim, F. Ghotb, and K. J. McM
+2009 10.1061/(asce)1076-0342(2009)15:2(133) Discussion of “Productivity Study of Microtunneling Pipe Installation Using Simulation” by Roy Yu Luo and Moha
+2010 10.1061/(asce)is.1943-555x.0000025 Markov and Neural Network Models for Prediction of Structural Deterioration of Storm-Water Pipe Assets
+2022 10.1061/(asce)is.1943-555x.0000696 Discussion of “Seismic Rehabilitation Optimization of Water Pipe Networks Considering Spatial Variabilities of
+2015 10.1061/(asce)is.1943-555x.0000208 Analysis of Pavement Overlay and Replacement Performance Using Random Parameters Hazard-Based Duration Models
+2006 10.1061/(asce)1076-0342(2006)12:3(184) Optimal Scheduling of Replacement and Rehabilitation of Water Distribution Systems
+2007 10.1061/(asce)1076-0342(2007)13:3(195) History-Dependent Bridge Deck Maintenance and Replacement Optimization with Markov Decision Processes
+2014 10.1061/(asce)is.1943-555x.0000191 Environmental and Economic Life-Cycle Assessment of Municipal Water-Storage Options: Infrastructure Refurbishm
+## utility coordination 7
+2003 10.1061/(asce)1076-0342(2003)9:2(81) Water Utility Security: Multiple Hazards and Multiple Barriers
+2016 10.1061/(asce)is.1943-555x.0000301 Regional Land Suitability Framework for Utility-Scale Wind Farm Development
+2009 10.1061/(asce)1076-0342(2009)15:2(80) Water Utility Efficiency Assessment Using a Data Envelopment Analysis Procedure
+2020 10.1061/(asce)is.1943-555x.0000547 Model for Earthquake Damage Analysis in Lifeline Utility Systems with Consideration of Uncertainties
+2016 10.1061/(asce)is.1943-555x.0000269 Utility Management System Cost and Time Benefits and Implications from the Local Agency Perspective
+2026 10.1061/jitse4.iseng-2798 Deep Learning Sewer Defects Detection: Comparison of Multilabel Utility-Specific Classification ModelsBased on
+2022 10.1061/(asce)is.1943-555x.0000678 The Other Side of the Interdependency Coin: Identifying Coordination and Investment Opportunities for Infrastr

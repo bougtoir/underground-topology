@@ -1,0 +1,6 @@
+Fig1: Flow diagram of six boxes: open urban data, demand model, reconstruction, feasibility gates, decision model, and outcome, connected by arrows.
+Fig2: Map of Japan with markers for Sano, Kudamatsu, and Yasu, and three panels showing each study zone's road graph with building demand nodes.
+Fig3: Bar chart by zone comparing the value of reconfiguration (0.01%, 0.39%, 0.20%) with the naive contrast, which is strongly negative in Kudamatsu; a gray band marks the plus or minus 1% margin.
+Fig4: Left: bar chart of the share of feasible clusters with positive value by zone. Right: scatter of positive cluster values (log scale) against number of demand terminals.
+Fig5: Three bar-chart panels, one per zone, decomposing the incumbent-minus-redesign cost difference into capital, loss, and other terms, plus the aggregate value of reconfiguration.
+FigS1: Log-log scatter of redesign route length against incumbent route length for feasible clusters; most points lie on the identity line.

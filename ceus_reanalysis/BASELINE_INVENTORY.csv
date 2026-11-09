@@ -1,0 +1,8 @@
+artifact,path,note
+manuscript docx,manuscript/manuscript_ceus_v1.docx,canonical build via p17
+inline docx,manuscript/manuscript_inline_ceus.docx,p18 anchor insertion
+supplement,manuscript/supplement_ceus.docx,p18
+morphology feasible,analysis/FEASIBLE_MORPHOLOGY_FINAL.csv,554 rows
+correlations,analysis/MORPHOLOGY_CORRELATIONS_CORRECTED.csv,terminals adj=NA
+population lock,ceus_reanalysis/ANALYTIC_POPULATION_LOCK.csv,589 rows flagged
+frozen values,analysis/manuscript_values_v3.csv,untouched

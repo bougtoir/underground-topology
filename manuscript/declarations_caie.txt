@@ -1,0 +1,13 @@
+Declarations
+- Declaration of generative AI: during the preparation of this work the
+  author used an AI coding assistant for code scaffolding and drafting.
+  The author reviewed and edited all content and takes full
+  responsibility for the publication.
+- Data availability: all scripts, the source registry, checksums, and
+  machine-readable result tables are provided in the supplementary
+  repository snapshot (github.com/bougtoir/underground-topology).
+  Municipal open data were used under their stated licenses (CC-BY for
+  Kudamatsu).
+- Code availability: the full analysis pipeline (scripts/) is included
+  in the submission package and the linked public repository.
+- Conflict of interest: none declared. Funding: none.

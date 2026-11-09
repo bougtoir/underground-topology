@@ -1,0 +1,137 @@
+{
+ "JIS_MANUSCRIPT_FINAL.docx: fonts Times New Roman only (Cambria Math in OMML)": {
+  "pass": true,
+  "detail": [
+   "Times New Roman"
+  ]
+ },
+ "JIS_MANUSCRIPT_FINAL.docx: text color black/auto": {
+  "pass": true,
+  "detail": [
+   "000000"
+  ]
+ },
+ "JIS_MANUSCRIPT_FINAL.docx: no character spacing": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_MANUSCRIPT_FINAL.docx: no embedded images": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_MANUSCRIPT_FINAL.docx: no attached template (.dot/.dotx)": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_MANUSCRIPT_FINAL.docx: no hard line breaks inside body paragraphs": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_COVER_LETTER.docx: fonts Times New Roman only (Cambria Math in OMML)": {
+  "pass": true,
+  "detail": [
+   "Times New Roman"
+  ]
+ },
+ "JIS_COVER_LETTER.docx: text color black/auto": {
+  "pass": true,
+  "detail": [
+   "000000"
+  ]
+ },
+ "JIS_COVER_LETTER.docx: no character spacing": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_COVER_LETTER.docx: no embedded images": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_COVER_LETTER.docx: no attached template (.dot/.dotx)": {
+  "pass": true,
+  "detail": ""
+ },
+ "JIS_COVER_LETTER.docx: no hard line breaks inside body paragraphs": {
+  "pass": true,
+  "detail": ""
+ },
+ "native OMML equations (3)": {
+  "pass": true,
+  "detail": 3
+ },
+ "headings unnumbered": {
+  "pass": true,
+  "detail": ""
+ },
+ "ASCE section order": {
+  "pass": true,
+  "detail": {
+   "Abstract": 0,
+   "Practical Applications": 1,
+   "Introduction": 2,
+   "Methods": 3,
+   "Results": 13,
+   "Discussion": 20,
+   "Conclusions": 26,
+   "Data Availability Statement": 27,
+   "Acknowledgments": 28,
+   "Disclosure of AI Tool Use": 29,
+   "Supplemental Materials": 30,
+   "References": 31,
+   "Figure Captions": 32
+  }
+ },
+ "abstract 250-300 words, no citations/equations": {
+  "pass": true,
+  "detail": 271
+ },
+ "practical applications 150-200 words": {
+  "pass": true,
+  "detail": 184
+ },
+ "figures cited sequentially": {
+  "pass": true,
+  "detail": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "tables cited sequentially": {
+  "pass": true,
+  "detail": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "no 'Figure n' in-text style (ASCE uses Fig.)": {
+  "pass": true,
+  "detail": ""
+ },
+ "captions begin 'Fig.'": {
+  "pass": true,
+  "detail": ""
+ },
+ "no stale journal names": {
+  "pass": true,
+  "detail": ""
+ },
+ "Data Availability Statement uses ASCE verbatim option": {
+  "pass": true,
+  "detail": ""
+ },
+ "length <= 30 pages incl. figures (1 page per figure)": {
+  "pass": true,
+  "detail": "24 text/table pages + 5 figures = 29"
+ },
+ "PDF fonts embedded": {
+  "pass": true,
+  "detail": ""
+ }
+}
